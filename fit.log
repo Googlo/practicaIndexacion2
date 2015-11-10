@@ -1,0 +1,469 @@
+
+
+*******************************************************************************
+Tue Oct 27 12:00:28 2015
+
+
+FIT:    data read from 'quijote.dat'
+        format = z
+        #datapoints = 22410
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(r)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Tue Oct 27 12:04:09 2015
+
+
+FIT:    data read from 'quijote.dat'
+        format = z
+        #datapoints = 22410
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(y)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Tue Oct 27 12:15:47 2015
+
+
+FIT:    data read from 'quijote.dat'
+        format = z
+        #datapoints = 22410
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.7029e+09        delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.00899053
+
+initial set of free parameter values
+
+k               = 1
+m               = 1
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Tue Oct 27 12:19:40 2015
+
+
+FIT:    data read from 'quijote.dat'
+        format = z
+        #datapoints = 22410
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.7029e+09        delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.00899053
+
+initial set of free parameter values
+
+k               = 1
+m               = 1
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Tue Oct 27 12:31:04 2015
+
+
+FIT:    data read from 'quijote.dat' u 1:2
+        format = x:z
+        #datapoints = 22410
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Tue Oct 27 12:31:57 2015
+
+
+FIT:    data read from 'quijote.dat'
+        format = z
+        #datapoints = 22410
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Tue Oct 27 12:33:26 2015
+
+
+FIT:    data read from 'quijote.dat'
+        format = z
+        #datapoints = 22410
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Tue Oct 27 12:38:39 2015
+
+
+FIT:    data read from "quijote.dat"
+        format = z
+        #datapoints = 22410
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.7029e+09        delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.00899053
+
+initial set of free parameter values
+
+k               = 1
+m               = 1
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Tue Oct 27 12:39:09 2015
+
+
+FIT:    data read from "quijote.dat"
+        format = z
+        #datapoints = 22410
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(y)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Tue Oct 27 12:39:13 2015
+
+
+FIT:    data read from "quijote.dat"
+        format = z
+        #datapoints = 22410
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Tue Oct 27 12:39:23 2015
+
+
+FIT:    data read from "quijote.dat"
+        format = z
+        #datapoints = 22410
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(y)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Tue Oct 27 12:40:29 2015
+
+
+FIT:    data read from "quijote.dat"
+        format = z
+        #datapoints = 22410
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Tue Oct 27 12:40:44 2015
+
+
+FIT:    data read from "quijote.dat"
+        format = z
+        #datapoints = 22410
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+BREAK:          Undefined value during function evaluation
+
+
+
+*******************************************************************************
+Tue Oct 27 12:59:20 2015
+
+
+FIT:    data read from 'quijote.dat'
+        format = z
+        #datapoints = 22410
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.96974e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 6.45419
+
+initial set of free parameter values
+
+k               = 1
+m               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 723.112
+rel. change during last iteration : -1.97994e-06
+
+degrees of freedom    (FIT_NDF)                        : 22408
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.179639
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0322703
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+k               = -1.22007         +/- 0.001202     (0.09848%)
+m               = 11.912           +/- 0.0109       (0.09152%)
+
+
+correlation matrix of the fit parameters:
+
+               k      m      
+k               1.000 
+m              -0.994  1.000 
+
+
+*******************************************************************************
+Tue Oct 27 13:23:21 2015
+
+
+FIT:    data read from 'parlamentopdf.dat'
+        format = z
+        #datapoints = 46132
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 67037             delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 6.95897
+
+initial set of free parameter values
+
+k               = -1.22007
+m               = 11.912
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1951.68
+rel. change during last iteration : -2.66786e-08
+
+degrees of freedom    (FIT_NDF)                        : 46130
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.20569
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0423082
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+k               = -1.46147         +/- 0.0009584    (0.06557%)
+m               = 15.4261          +/- 0.009383     (0.06082%)
+
+
+correlation matrix of the fit parameters:
+
+               k      m      
+k               1.000 
+m              -0.995  1.000 
+
+
+*******************************************************************************
+Tue Oct 27 17:57:47 2015
+
+
+FIT:    data read from 'parlamentopdf.dat'
+        format = z
+        #datapoints = 27031
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.96119e+06       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 6.58518
+
+initial set of free parameter values
+
+k               = 1
+m               = 1
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 665.373
+rel. change during last iteration : -2.71935e-06
+
+degrees of freedom    (FIT_NDF)                        : 27029
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.156898
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.024617
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+k               = -1.40627         +/- 0.0009554    (0.06794%)
+m               = 14.9794          +/- 0.008846     (0.05905%)
+
+
+correlation matrix of the fit parameters:
+
+               k      m      
+k               1.000 
+m              -0.994  1.000 
+
+
+*******************************************************************************
+Tue Oct 27 18:05:30 2015
+
+
+FIT:    data read from 'parlamentopdf.dat'
+        format = z
+        #datapoints = 20497
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 487.164           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 6.39187
+
+initial set of free parameter values
+
+k               = -1.40627
+m               = 14.9794
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 421.32
+rel. change during last iteration : -3.48056e-09
+
+degrees of freedom    (FIT_NDF)                        : 20495
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.143378
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0205572
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+k               = -1.36476         +/- 0.001003     (0.07348%)
+m               = 14.6475          +/- 0.00901      (0.06151%)
+
+
+correlation matrix of the fit parameters:
+
+               k      m      
+k               1.000 
+m              -0.994  1.000 
+
+
+*******************************************************************************
+Tue Oct 27 18:11:18 2015
+
+
+FIT:    data read from 'parlamentopdf.dat'
+        format = z
+        #datapoints = 14618
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 331.082           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 6.15594
+
+initial set of free parameter values
+
+k               = -1.36476
+m               = 14.6475
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 275.327
+rel. change during last iteration : -9.86475e-09
+
+degrees of freedom    (FIT_NDF)                        : 14616
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.137249
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.0188374
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+k               = -1.31774         +/- 0.001137     (0.08631%)
+m               = 14.2837          +/- 0.009836     (0.06886%)
+
+
+correlation matrix of the fit parameters:
+
+               k      m      
+k               1.000 
+m              -0.993  1.000 

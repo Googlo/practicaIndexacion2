@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>40</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 22,</numero_sesion>
+  <fecha>
+    <dia>22</dia>
+    <mes>mayo</mes>
+    <anio>2013</anio>
+  </fecha>
+  <tipo_epigrafe>@@epigrafe =</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>@@epigrafe =</tipo_iniciativa>
+    <numero_expediente>9-12/DINT-000001</numero_expediente>
+    <extracto>Dictamen de la Comisión de Gobierno Interior y Peticiones sobre la intervención de los gastos de los programas 1.1.B y 1.1.C de la sección presupuestaria 02, Parlamento de Andalucía, correspondientes a los ejercicios 2011 y 2012, así como sus liquidaciones (pág. 12).</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Pasamos, señorías, al punto primero del orden del día, ahora tercero, dictamen de la Comisión de Gobierno Interior y Peticiones sobre la intervención de los gastos de los programas 1.1.B y 1.1.C de la sección presupuestaria 02, Parlamento de Andalucía, correspondientes a los ejercicios 2011 y 2012, así como a sus liquidaciones.</parrafo>
+        <parrafo>El dictamen obra en poder de los señores y señoras diputados en la carpeta de Pleno. ¿Puede entender esta Presidencia que dicho dictamen se aprueba por asentimiento de la Cámara?</parrafo>
+        <parrafo>Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

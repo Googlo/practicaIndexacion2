@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>43</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 23,</numero_sesion>
+  <fecha>
+    <dia>13</dia>
+    <mes>junio</mes>
+    <anio>2013</anio>
+  </fecha>
+  <tipo_epigrafe>Punto nuevo del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Punto nuevo del orden del día</tipo_iniciativa>
+    <extracto>Solicitud de conformidad de la Cámara para la inclusión de un nuevo punto en el orden del día (pág. 164).</extracto>
+    <votacion>Votación: aprobada por asentimiento..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Y efectivamente, señorías, de acuerdo con lo que prevé el artículo 73 del Reglamento de la Cámara, paso a proponerles una modificación del orden del día consistente en la introducción de un nuevo punto: juramento o promesa de acatar la Constitución y el Estatuto de Autonomía para Andalucía de la ilustrísima señora doña María Salomé Arroyo Sánchez.</parrafo>
+        <parrafo>¿Puedo contar con el asentimiento de la Cámara?</parrafo>
+        <parrafo>Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

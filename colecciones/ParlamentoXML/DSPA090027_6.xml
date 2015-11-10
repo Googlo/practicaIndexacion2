@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>27</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 15,</numero_sesion>
+  <fecha>
+    <dia>13</dia>
+    <mes>febrero</mes>
+    <anio>2013</anio>
+  </fecha>
+  <tipo_epigrafe>Proyectos de ley</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Proyectos de ley</tipo_iniciativa>
+    <materias>Nutrición, Colegio Profesional, Profesión paramédica, Alimentación humana, Ecología</materias>
+    <numero_expediente>9-12/PL-000004 9-12/PL-000005</numero_expediente>
+    <extracto>Propuesta de acuerdo para la tramitación directa y en lectura única ante el Pleno de los dos proyectos de ley (pág. 17).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>9-12/PL-000004</numero_expediente>
+        <extracto>Proyecto de Ley por la que se crea el Colegio Profesional de Dietistas-Nutricionistas de Andalucía.</extracto>
+        <proponentes>Sin proponentes</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>9-12/PL-000005</numero_expediente>
+        <extracto>Proyecto de Ley por la que se crea el Colegio Profesional de Licenciados y Graduados en Ciencias Ambientales de Andalucía.</extracto>
+        <proponentes>Sin proponentes</proponentes>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GARCÍA RODRÍGUEZ, VICEPRESIDENTE PRIMERO DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Continuamos con el punto tercero del orden del día, Proyecto de Ley por el que se crea el Colegio Profesional de Dietistas-Nutricionistas de Andalucía. Y a continuación Proyecto de Ley por el que se crea el Colegio Profesional de Licenciados y Graduados en Ciencias Ambientales de Andalucía.</parrafo>
+        <parrafo>Tendrán debate por separado y, señorías, de acuerdo con lo previsto en el artículo 136.1 del Reglamento, procede, en primer lugar, obtener el acuerdo del Pleno para la tramitación directa y en lectura única de los dos proyectos de ley arriba citados, previa propuesta de la Mesa en tal sentido, en sesión celebrada esta misma mañana, y el correspondiente acuerdo unánime de la Junta de Portavoces en sesión celebrada también hoy mismo.</parrafo>
+        <parrafo>¿Puede entender entonces la Presidencia que cuenta con el asentimiento de la Cámara? Así se declara.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobada por asentimiento.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

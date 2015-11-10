@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>27</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 15,</numero_sesion>
+  <fecha>
+    <dia>13</dia>
+    <mes>febrero</mes>
+    <anio>2013</anio>
+  </fecha>
+  <tipo_epigrafe>Puntos nuevos del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Puntos nuevos del orden del día</tipo_iniciativa>
+    <numero_expediente>9-12/DVOT-000014</numero_expediente>
+    <extracto>Delegación de voto de Dña. Raquel Arenal Catena a favor de Dña. Verónica Pérez Fernández (pág. 14).</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—En primer lugar, la delegación de voto de doña Raquel Arenal.</parrafo>
+        <parrafo>En sesión celebrada esta misma mañana, la Mesa ha conocido el escrito presentado por la diputada, por el que se solicita delegar su voto los días 13 y 14 de este mes en la señora Verónica Pérez Fernández, en razón de enfermedad. La Comisión del Estatuto emitió en su día el correspondiente dictamen, que establece que en tanto permanezcan las circunstancias declaradas procede seguir accediendo a dicha delegación. ¿Puede entender entonces la Presidencia que el Pleno aprueba la delegación del voto? Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

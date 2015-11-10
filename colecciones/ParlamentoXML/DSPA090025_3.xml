@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>25</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro.</presidente>
+  <numero_sesion>número 14</numero_sesion>
+  <fecha>
+    <dia>19</dia>
+    <mes>diciembre</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputados</tipo_iniciativa>
+    <numero_expediente>9-12/DVOT-000019</numero_expediente>
+    <extracto>Delegación de voto de D. Jesús María Ruiz García a favor de Dña. Soledad Pérez Rodríguez (pág. 3).</extracto>
+    <votacion>Votación: Aprobada por unanimidad..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Pasando ahora a la delegación de voto de doña Raquel Arenal, así mismo también la Comisión del Estatuto emitió en su día Dictamen para que el Pleno acordase que la delegación de voto tuviera carácter general en tanto se prolongase la enfermedad y no se produjera revocación en días concretos. Al no haberse producido dicha revocación, ¿puede entender la Presidencia que se concede la delegación de voto? Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

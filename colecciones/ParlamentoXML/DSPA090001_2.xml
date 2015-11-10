@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>1</numero_diario>
+  <tipo_sesion>Sesión Constitutiva</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 1</numero_sesion>
+  <fecha>
+    <dia>19</dia>
+    <mes>abril</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Constitución</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Constitución</tipo_iniciativa>
+    <numero_expediente>Elección</numero_expediente>
+    <extracto>Elección de miembros de la Mesa del Parlamento (pág. 5).</extracto>
+    <intervienen>D. Pedro Rodríguez González, Presidente de la Mesa de Edad. Dña. Marina Segura Gómez, Secretaria de la Mesa de Edad. Dña. Ana María Mestre García, Secretaria de la Mesa de Edad.</intervienen>
+    <intervencion>
+      <interviniente>El señor RODRÍGUEZ GONZÁLEZ, PRESIDENTE DE LA MESA DE EDAD</interviniente>
+      <discurso>
+        <parrafo>—Señoras diputadas y señores diputados, de conformidad con el procedimiento establecido en los artículos 33 y 34 del Reglamento de la Cámara, vamos a proceder a la elección de la Mesa del Parlamento en votaciones separadas y sucesivas para el presidente o la presidenta, los tres vicepresidentes y los tres secretarios.</parrafo>
+        <parrafo>Rige para esta elección lo previsto en el artículo 107 del Estatuto de Autonomía para Andalucía, concretado por la resolución de la Presidencia sobre adecuación de los nombramientos y designaciones que efectúe este Parlamento al principio de presencia equilibrada de hombres y mujeres. Corresponde en este momento que, por las formaciones políticas que han obtenido representación parlamentaria, se proceda a la presentación de los candidatos a la presidencia del Parlamento de Andalucía.</parrafo>
+        <parrafo>¿Algún partido político presenta su candidato?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor JIMÉNEZ DÍAZ</interviniente>
+      <discurso>
+        <parrafo>—El Grupo Parlamentario Socialista presenta a don Manuel Gracia Navarro para Presidente del Parlamento de Andalucía.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor RODRÍGUEZ GONZÁLEZ, PRESIDENTE DE LA MESA DE EDAD</interviniente>
+      <discurso>
+        <parrafo>—¿El Partido Popular? ¿Izquierda Unida?</parrafo>
+        <parrafo>El Partido Socialista Obrero Español de Andalucía ha presentado a don Manuel Gracia.</parrafo>
+        <parrafo>Les recuerdo a sus señorías que deben escribir un solo nombre en la papeleta y que el llamamiento se efectuará por orden alfabético. La Mesa declarará nulas las papeletas en las que figure un nombre distinto al de los candidatos presentados.</parrafo>
+        <parrafo>Va a comenzar la votación para la elección a la Presidencia. Ruego a la señora Secretaria, doña Marina Segura, que proceda a dar lectura de la relación de los diputados por orden alfabético, y que irán depositando su voto en la urna.</parrafo>
+        <parrafo>Tiene la palabra.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora SEGURA GÓMEZ, SECRETARIA DE LA MESA DE EDAD</interviniente>
+      <discurso>
+        <parrafo>—Doña Clara Eugenia Aguilera García.</parrafo>
+        <parrafo>Doña María del Rosario Alarcón Mañas.</parrafo>
+        <parrafo>Don Luciano Alonso Alonso.</parrafo>
+        <parrafo>Don Francisco José Álvarez de la Chica.</parrafo>
+        <parrafo>Don Francisco Javier Aragón Ariza.</parrafo>
+        <parrafo>Don Miguel Ángel Arauz Rivero.</parrafo>
+        <parrafo>Doña Raquel Arenal Catena.</parrafo>
+        <parrafo>Don Francisco Javier Arenas Bocanegra.</parrafo>
+        <parrafo>Doña Rocío Arrabal Higuera.</parrafo>
+        <parrafo>Don Antonio Jesús Ávila Cano.</parrafo>
+        <parrafo>Don Manuel Baena Cobos.</parrafo>
+        <parrafo>Don Enrique Javier Benítez Palma.</parrafo>
+        <parrafo>Don José  Bernal Gutiérrez.</parrafo>
+        <parrafo>Doña María Luisa Bustinduy Barrero.</parrafo>
+        <parrafo>Don José Caballos Mojeda.</parrafo>
+        <parrafo>Don José Cara González.</parrafo>
+        <parrafo>Doña María Francisca Carazo Villalonga.</parrafo>
+        <parrafo>Don Rafael Carmona Ruiz.</parrafo>
+        <parrafo>Doña María Araceli Carrillo Pérez.</parrafo>
+        <parrafo>Don Miguel Castellano Gámez.</parrafo>
+        <parrafo>Don Miguel Ángel Castellón Rubio.</parrafo>
+        <parrafo>Don Daniel Castilla Zumaquero.</parrafo>
+        <parrafo>Doña María Cinta Castillo Jiménez.</parrafo>
+        <parrafo>Don José Antonio Castro Román.</parrafo>
+        <parrafo>Doña María Colón Lozano.</parrafo>
+        <parrafo>Don Miguel Contreras López.</parrafo>
+        <parrafo>Doña Ana María Corredera Quintana.</parrafo>
+        <parrafo>Doña Fuensanta Coves Botella.</parrafo>
+        <parrafo>Don José Eduardo Díaz Molina.</parrafo>
+        <parrafo>Doña Susana Díaz Pacheco.</parrafo>
+        <parrafo>Don José Juan Díaz Trillo.</parrafo>
+        <parrafo>Doña Alba María Doblas Miranda.</parrafo>
+        <parrafo>Doña Rosalía Ángeles Espinosa López.</parrafo>
+        <parrafo>Don Francisco Jesús Fernández Ferrera.</parrafo>
+        <parrafo>Don Manuel Alberto Fernández Rodríguez.</parrafo>
+        <parrafo>Don Juan Ramón Ferreira Siles.</parrafo>
+        <parrafo>Doña Catalina Montserrat García Carrasco.</parrafo>
+        <parrafo>Doña Ana Vanesa García Jiménez.</parrafo>
+        <parrafo>Don Ignacio García Rodríguez.</parrafo>
+        <parrafo>Don Antonio Manuel Garrido Moraga.</parrafo>
+        <parrafo>Don José Jesús Gázquez Linares.</parrafo>
+        <parrafo>Don Carmelo Gómez Domínguez.</parrafo>
+        <parrafo>Don Víctor Manuel González García.</parrafo>
+        <parrafo>Don Manuel Andrés González Rivera.</parrafo>
+        <parrafo>Doña Carolina González Vigo.</parrafo>
+        <parrafo>Don Manuel Gracia Navarro.</parrafo>
+        <parrafo>Don José Antonio Griñán Martínez.</parrafo>
+        <parrafo>Doña Ángeles Isac García.</parrafo>
+        <parrafo>Don Manuel Jiménez Barrios.</parrafo>
+        <parrafo>Don Mario Jesús Jiménez Díaz.</parrafo>
+        <parrafo>Doña María Teresa Jiménez Vílchez.</parrafo>
+        <parrafo>Doña María Dolores López Gabarro.</parrafo>
+        <parrafo>Doña Remedios Martel Gómez.</parrafo>
+        <parrafo>Doña Rosalía Martín Escobar.</parrafo>
+        <parrafo>Doña Aránzazu Martín Moya.</parrafo>
+        <parrafo>Doña María Eva Martín Pérez.</parrafo>
+        <parrafo>Doña María Carmen Martínez Aguayo.</parrafo>
+        <parrafo>Don José Manuel Martínez Malia.</parrafo>
+        <parrafo>Doña Alicia Martínez Martín.</parrafo>
+        <parrafo>Doña María Nieves Masegosa Martos.</parrafo>
+        <parrafo>Don Francisco Menacho Villalba.</parrafo>
+        <parrafo>Don José Antonio Miranda Aranda.</parrafo>
+        <parrafo>Don Adolfo Manuel Molina Rascón.</parrafo>
+        <parrafo>Doña María Jesús Montero Cuadrado.</parrafo>
+        <parrafo>Doña María del Mar Moreno Ruiz.</parrafo>
+        <parrafo>Doña Antonia Jesús Moro Cárdeno.</parrafo>
+        <parrafo>Don Jacinto Muñoz Madrid.</parrafo>
+        <parrafo>Don José Muñoz Sánchez.</parrafo>
+        <parrafo>Doña Micaela Navarro Garzón.</parrafo>
+        <parrafo>Don José Antonio Nieto Ballesteros.</parrafo>
+        <parrafo>Doña Inmaculada Nieto Castro.</parrafo>
+        <parrafo>Doña Rafaela Obrero Ariza.</parrafo>
+        <parrafo>Doña María Esperanza Oña Sevilla.</parrafo>
+        <parrafo>Doña Amelia Palacios Pérez.</parrafo>
+        <parrafo>Doña María del Carmen Pedemonte Quintana.</parrafo>
+        <parrafo>Doña Verónica Pérez Fernández.</parrafo>
+        <parrafo>Doña María Carmen Pérez Rodríguez.</parrafo>
+        <parrafo>Doña Soledad Pérez Rodríguez.</parrafo>
+        <parrafo>Don Luis Pizarro Medina.</parrafo>
+        <parrafo>Don Paulino Plata Cánovas.</parrafo>
+        <parrafo>Doña Patricia del Pozo Fernández.</parrafo>
+        <parrafo>Doña María Dolores Quintana Campos.</parrafo>
+        <parrafo>Don Jaime Raynaud Soto.</parrafo>
+        <parrafo>Don Manuel Recio Menéndez.</parrafo>
+        <parrafo>Doña Natividad Redondo Crespo.</parrafo>
+        <parrafo>Doña Ana María Rico Terrón.</parrafo>
+        <parrafo>Don Alfonso Rodríguez Gómez de Celis.</parrafo>
+        <parrafo>Don Carlos Rojas García.</parrafo>
+        <parrafo>Don Rafael Ruiz Canto.</parrafo>
+        <parrafo>Don Jesús María Ruiz García.</parrafo>
+        <parrafo>Doña Antonia Ruiz Oliva.</parrafo>
+        <parrafo>Doña María Teresa Ruiz-Sillero Bernal.</parrafo>
+        <parrafo>Doña María Concepción Sacramento Villegas.</parrafo>
+        <parrafo>Don Rafael Javier Salas Machuca.</parrafo>
+        <parrafo>Don Juan Manuel Sánchez Gordillo.</parrafo>
+        <parrafo>Don José Luis Sánchez Teruel.</parrafo>
+        <parrafo>Don Antonio Sanz Cabello.</parrafo>
+        <parrafo>Doña Adela Segura Martínez.</parrafo>
+        <parrafo>Don Juan Serrano Jódar.</parrafo>
+        <parrafo>Doña María Rosario Soto Rico.</parrafo>
+        <parrafo>Doña Rosario Torres Ruiz.</parrafo>
+        <parrafo>Don Diego Valderas Sosa.</parrafo>
+        <parrafo>Don Rafael Vicente Valero Rodríguez.</parrafo>
+        <parrafo>Don Francisco Vallejo Serrano.</parrafo>
+        <parrafo>Doña Josefa Vioque Zamora.</parrafo>
+        <parrafo>Don Juan Ignacio Zoido Álvarez.</parrafo>
+        <parrafo>Don Pedro Rodríguez González.</parrafo>
+        <parrafo>Doña Ana María Mestre García.</parrafo>
+        <parrafo>Doña Marina Segura Gómez.</parrafo>
+        <parrafo>[Se procede al recuento de votos.]</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor RODRÍGUEZ GONZÁLEZ, PRESIDENTE DE LA MESA DE EDAD</interviniente>
+      <discurso>
+        <parrafo>—Señorías... Señorías, terminada la votación y realizado el escrutinio, el resultado es el siguiente: de un total de 108 votos emitidos, el candidato propuesto ha obtenido 57 votos, ha habido 50 votos en blanco y un voto nulo.</parrafo>
+        <parrafo>En consecuencia, habiendo obtenido la mayoría absoluta y de conformidad con lo dispuesto en el artículo 34.1 del Reglamento de la Cámara, queda proclamado Presidente del Parlamento de Andalucía don Manuel Gracia Navarro.</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+        <parrafo>Seguidamente, vamos a proceder a la elección de los tres vicepresidentes.</parrafo>
+        <parrafo>Corresponde en este momento que por las formaciones políticas que han obtenido representación parlamentaria se proceda a la formulación de un máximo de tres propuestas.</parrafo>
+        <parrafo>¿Tiene alguna propuesta el Partido Popular?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor ROJAS GARCÍA</interviniente>
+      <discurso>
+        <parrafo>—Con la venia, señor Presidente, el Partido Popular propone a doña Esperanza Oña Sevilla.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor RODRÍGUEZ GONZÁLEZ, PRESIDENTE DE LA MESA DE EDAD</interviniente>
+      <discurso>
+        <parrafo>—¿El Partido Socialista?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor JIMÉNEZ DÍAZ</interviniente>
+      <discurso>
+        <parrafo>—El Partido Socialista propone a la señora Teresa Jiménez Vílchez.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor RODRÍGUEZ GONZÁLEZ, PRESIDENTE DE LA MESA DE EDAD</interviniente>
+      <discurso>
+        <parrafo>—¿Izquierda Unida?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor VALDERAS SOSA</interviniente>
+      <discurso>
+        <parrafo>—A Ignacio García Rodríguez.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor RODRÍGUEZ GONZÁLEZ, PRESIDENTE DE LA MESA DE EDAD</interviniente>
+      <discurso>
+        <parrafo>—Según dispone el artículo 34.2 del Reglamento de la Cámara, cada diputado o diputada escribirá un nombre en la papeleta y resultarán elegidos los que por orden correlativo obtengan la mayoría de votos. La Mesa declarará nulas las papeletas que contengan más de un nombre o estos sean distintos al de los candidatos presentados.</parrafo>
+        <parrafo>Ruego a la señora Secretaria de la Mesa de Edad, doña Ana María Mestre, que proceda a dar lectura a la relación alfabética de los señores diputados que irán depositando sus votos en las urnas.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora MESTRE GARCÍA, SECRETARIA DE LA MESA DE EDAD</interviniente>
+      <discurso>
+        <parrafo>—Doña Clara Eugenia Aguilera García.</parrafo>
+        <parrafo>Doña María del Rosario Alarcón Mañas.</parrafo>
+        <parrafo>Don Luciano Alonso Alonso.</parrafo>
+        <parrafo>Don Francisco José Álvarez de la Chica.</parrafo>
+        <parrafo>Don Francisco Javier Aragón Ariza.</parrafo>
+        <parrafo>Don Miguel Ángel Araúz Rivero.</parrafo>
+        <parrafo>Doña Raquel Arenal Catena.</parrafo>
+        <parrafo>Don Francisco Javier Arenas Bocanegra.</parrafo>
+        <parrafo>Doña Rocío Arrabal Higuera.</parrafo>
+        <parrafo>Don Antonio Jesús Ávila Cano.</parrafo>
+        <parrafo>Don Manuel Baena Cobos.</parrafo>
+        <parrafo>Don Enrique Javier Benítez Palma.</parrafo>
+        <parrafo>Don José Bernal Gutiérrez.</parrafo>
+        <parrafo>Doña María Luisa Bustinduy Barrero.</parrafo>
+        <parrafo>Don José Caballos Mojeda.</parrafo>
+        <parrafo>Don José Cara González.</parrafo>
+        <parrafo>Doña María Francisca Carazo Villalonga.</parrafo>
+        <parrafo>Don Rafael Carmona Ruiz.</parrafo>
+        <parrafo>Doña María Araceli Carrillo Pérez.</parrafo>
+        <parrafo>Don Miguel Castellano Gámez.</parrafo>
+        <parrafo>Don Miguel Ángel Castellón Rubio.</parrafo>
+        <parrafo>Don Daniel Castilla Zumaquero.</parrafo>
+        <parrafo>Doña María Cinta Castillo Jiménez.</parrafo>
+        <parrafo>Don José Antonio Castro Román.</parrafo>
+        <parrafo>Doña María Colón Lozano.</parrafo>
+        <parrafo>Don Miguel Contreras López.</parrafo>
+        <parrafo>Doña Ana María Corredera Quintana.</parrafo>
+        <parrafo>Doña Fuensanta Coves Botella.</parrafo>
+        <parrafo>Don José Eduardo Díaz Molina.</parrafo>
+        <parrafo>Doña Susana Díaz Pacheco.</parrafo>
+        <parrafo>Don José Juan Díaz Trillo.</parrafo>
+        <parrafo>Doña Alba María Doblas Miranda.</parrafo>
+        <parrafo>Doña Rosalía Ángeles Espinosa López.</parrafo>
+        <parrafo>Don Francisco Jesús Fernández Ferrera.</parrafo>
+        <parrafo>Don Manuel Alberto Fernández Rodríguez.</parrafo>
+        <parrafo>Don Juan Ramón Ferreira Siles.</parrafo>
+        <parrafo>Doña Catalina Montserrat García Carrasco.</parrafo>
+        <parrafo>Doña Ana Vanesa García Jiménez.</parrafo>
+        <parrafo>Don Ignacio García Rodríguez.</parrafo>
+        <parrafo>Don Antonio Manuel Garrido Moraga.</parrafo>
+        <parrafo>Don José Jesús Gázquez Linares.</parrafo>
+        <parrafo>Don Carmelo Gómez Domínguez.</parrafo>
+        <parrafo>Don Víctor Manuel González García.</parrafo>
+        <parrafo>Don Manuel Andrés González Rivera.</parrafo>
+        <parrafo>Doña Carolina González Vigo.</parrafo>
+        <parrafo>Don Manuel Gracia Navarro.</parrafo>
+        <parrafo>Don José Antonio Griñán Martínez.</parrafo>
+        <parrafo>Doña Ángeles Isac García.</parrafo>
+        <parrafo>Don Manuel Jiménez Barrios.</parrafo>
+        <parrafo>Don Mario Jesús Jiménez Díaz.</parrafo>
+        <parrafo>Doña María Teresa Jiménez Vílchez.</parrafo>
+        <parrafo>Doña María Dolores López Gabarro.</parrafo>
+        <parrafo>Doña Remedios Martel Gómez.</parrafo>
+        <parrafo>Doña Rosalía Martín Escobar.</parrafo>
+        <parrafo>Doña Aránzazu Martín Moya.</parrafo>
+        <parrafo>Doña Eva María Martín Pérez.</parrafo>
+        <parrafo>Doña María del Carmen Martínez Aguayo.</parrafo>
+        <parrafo>Don José Manuel Martínez Malia.</parrafo>
+        <parrafo>Doña Alicia Martínez Martín.</parrafo>
+        <parrafo>Doña María Nieves Masegosa Martos.</parrafo>
+        <parrafo>Don Francisco Menacho Villalba.</parrafo>
+        <parrafo>Don José Antonio Miranda Aranda.</parrafo>
+        <parrafo>Don Adolfo Manuel Molina Rascón.</parrafo>
+        <parrafo>Doña María Jesús Montero Cuadrado.</parrafo>
+        <parrafo>Doña María del Mar Moreno Ruiz.</parrafo>
+        <parrafo>Doña Antonia Jesús Moro Cárdeno.</parrafo>
+        <parrafo>Don Jacinto Muñoz Madrid.</parrafo>
+        <parrafo>Don José Muñoz Sánchez.</parrafo>
+        <parrafo>Doña Micaela Navarro Garzón.</parrafo>
+        <parrafo>Don José Antonio Nieto Ballesteros.</parrafo>
+        <parrafo>Doña Inmaculada Nieto Castro.</parrafo>
+        <parrafo>Doña Rafaela Obrero Ariza.</parrafo>
+        <parrafo>Doña María Esperanza Oña Sevilla.</parrafo>
+        <parrafo>Doña Amelia Palacios Pérez.</parrafo>
+        <parrafo>Doña María del Carmen Pedemonte Quintana.</parrafo>
+        <parrafo>Doña Verónica Pérez Fernández.</parrafo>
+        <parrafo>Doña Soledad Pérez Rodríguez.</parrafo>
+        <parrafo>(Ah. Me he saltado a doña María del Carmen Pérez Rodríguez.)</parrafo>
+        <parrafo>Doña María del Carmen Pérez Rodríguez.</parrafo>
+        <parrafo>Don Luis Pizarro Medina.</parrafo>
+        <parrafo>Don Paulino Plata Cánovas.</parrafo>
+        <parrafo>Doña Patricia del Pozo Fernández.</parrafo>
+        <parrafo>Doña María Dolores Quintana Campos.</parrafo>
+        <parrafo>Don Jaime Raynaud Soto.</parrafo>
+        <parrafo>Don Manuel Recio Menéndez.</parrafo>
+        <parrafo>Doña Natividad Redondo Crespo.</parrafo>
+        <parrafo>Doña Ana María Rico Terrón.</parrafo>
+        <parrafo>Don Alfonso Rodríguez Gómez de Celis.</parrafo>
+        <parrafo>Don Carlos Rojas García.</parrafo>
+        <parrafo>Don Rafael Ruiz Canto.</parrafo>
+        <parrafo>Don Jesús María Ruiz García.</parrafo>
+        <parrafo>Doña Antonia Ruiz Oliva.</parrafo>
+        <parrafo>Doña María Teresa Ruiz-Sillero Bernal.</parrafo>
+        <parrafo>Doña María Concepción Sacramento Villegas.</parrafo>
+        <parrafo>Don Rafael Javier Salas Machuca.</parrafo>
+        <parrafo>Don Juan Manuel Sánchez Gordillo.</parrafo>
+        <parrafo>Don José Luis Sánchez Teruel.</parrafo>
+        <parrafo>Don Antonio Sanz Cabello.</parrafo>
+        <parrafo>Doña Adela Segura Martínez.</parrafo>
+        <parrafo>Don Juan Serrano Jódar.</parrafo>
+        <parrafo>Doña Rosario Soto Rico.</parrafo>
+        <parrafo>Doña Rosario Torres Ruiz.</parrafo>
+        <parrafo>Don Diego Valderas Sosa.</parrafo>
+        <parrafo>Don Rafael Vicente Valero Rodríguez.</parrafo>
+        <parrafo>Don Francisco Vallejo Serrano.</parrafo>
+        <parrafo>Doña Josefa Vioque Zamora.</parrafo>
+        <parrafo>Don Juan Ignacio Zoido Álvarez.</parrafo>
+        <parrafo>Don Pedro Rodríguez González.</parrafo>
+        <parrafo>Doña Ana María Mestre García.</parrafo>
+        <parrafo>Y doña Marina Segura Gómez.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor RODRÍGUEZ GONZÁLEZ, PRESIDENTE DE LA MESA DE EDAD</interviniente>
+      <discurso>
+        <parrafo>—Se va a realizar el escrutinio.</parrafo>
+        <parrafo>[Se procede al recuento de votos.]</parrafo>
+        <parrafo>Señorías, concluido el escrutinio, el resultado de la votación es el siguiente.</parrafo>
+        <parrafo>De un total de 108 votos emitidos, don Ignacio García Rodríguez ha obtenido 42 votos, doña Esperanza Oña Sevilla ha obtenido 35 votos y doña Teresa Jiménez Vílchez ha obtenido 31 votos. En consecuencia, y de conformidad con lo dispuesto en el artículo 33.2 del Reglamento de la Cámara, queda proclamado Vicepresidente Primero de la Cámara don Ignacio García Rodríguez; Vicepresidenta Segunda, Esperanza Oña Sevilla, y Vicepresidenta Tercera, Teresa Jiménez Vílchez. Enhorabuena.</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+        <parrafo>A continuación, y de la misma forma que se ha procedido para la elección de vicepresidentes, corresponde en este momento, de conformidad con lo dispuesto en el artículo 43.3 del Reglamento de la Cámara, que el Pleno proceda a la elección de los tres secretarios. Las formaciones políticas que han obtenido representación parlamentaria pueden presentar hasta un máximo de tres candidaturas, tres candidaturas a la secretaría del Parlamento de Andalucía. Al igual que en la ocasión anterior, cada diputado o diputada escribirá un nombre en la papeleta y resultarán elegidos los que por orden correlativo obtengan la mayoría de votos. La Mesa declarará nulas las papeletas que contengan más de un nombre o estos sean distintos al de los candidatos presentados.</parrafo>
+        <parrafo>Por el Partido Popular, ¿a quién proponen?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor ROJAS GARCÍA</interviniente>
+      <discurso>
+        <parrafo>—Con la venia, Señor Presidente, el Partido Popular propone a doña Patricia del Pozo Fernández y a don Manuel Andrés González Rivera.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor RODRÍGUEZ GONZÁLEZ, PRESIDENTE DE LA MESA DE EDAD</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias.</parrafo>
+        <parrafo>¿Por el Partido Socialista?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor JIMÉNEZ DÍAZ</interviniente>
+      <discurso>
+        <parrafo>—Con la venia, Señor Presidente, el Partido Socialista propone a la ilustrísima señora Remedios Martel Gómez.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor RODRÍGUEZ GONZÁLEZ, PRESIDENTE DE LA MESA DE EDAD</interviniente>
+      <discurso>
+        <parrafo>—Muchísimas gracias.</parrafo>
+        <parrafo>¿Por Izquierda Unida?</parrafo>
+        <parrafo>No presentan a nadie.</parrafo>
+        <parrafo>Bien, pues, al igual que en las dos ocasiones, se va a proceder a la lectura de la relación alfabética de los señores diputados, que irán depositando su voto en las urnas.</parrafo>
+        <parrafo>Señora Secretaria.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora SEGURA GÓMEZ, SECRETARIA DE LA MESA DE EDAD</interviniente>
+      <discurso>
+        <parrafo>—Doña Clara Eugenia Aguilera García.</parrafo>
+        <parrafo>Doña María del Rosario Alarcón Mañas.</parrafo>
+        <parrafo>Don Luciano Alonso Alonso.</parrafo>
+        <parrafo>Don Francisco José Álvarez de la Chica.</parrafo>
+        <parrafo>Don Francisco Javier Aragón Ariza.</parrafo>
+        <parrafo>Don Miguel Ángel Arauz Rivero.</parrafo>
+        <parrafo>Doña Raquel Arenal Catena.</parrafo>
+        <parrafo>Don Francisco Javier Arenas Bocanegra.</parrafo>
+        <parrafo>Doña Rocío Arrabal Higuera.</parrafo>
+        <parrafo>Don Antonio Jesús Ávila Cano.</parrafo>
+        <parrafo>Don Manuel Baena Cobos.</parrafo>
+        <parrafo>Don Enrique Javier Benítez Palma.</parrafo>
+        <parrafo>Don José Bernal Gutiérrez.</parrafo>
+        <parrafo>Doña María Luisa Bustinduy Barrero.</parrafo>
+        <parrafo>Don José Caballos Mojeda.</parrafo>
+        <parrafo>Don José Cara González.</parrafo>
+        <parrafo>Doña María Francisca Carazo Villalonga.</parrafo>
+        <parrafo>Don Rafael Carmona Ruiz.</parrafo>
+        <parrafo>Doña María Araceli Carrillo Pérez.</parrafo>
+        <parrafo>Don Miguel Castellano Gámez.</parrafo>
+        <parrafo>Don Miguel Ángel Castellón Rubio.</parrafo>
+        <parrafo>Don Daniel Castilla Zumaquero.</parrafo>
+        <parrafo>Doña María Cinta Castillo Jiménez.</parrafo>
+        <parrafo>Don José Antonio Castro Román.</parrafo>
+        <parrafo>Doña María Colón Lozano.</parrafo>
+        <parrafo>Don Miguel Contreras López.</parrafo>
+        <parrafo>Doña Ana María Corredera Quintana.</parrafo>
+        <parrafo>Doña Fuensanta Coves Botella.</parrafo>
+        <parrafo>Don José Eduardo Díaz Molina.</parrafo>
+        <parrafo>Doña Susana Díaz Pacheco.</parrafo>
+        <parrafo>Don José Juan Díaz Trillo.</parrafo>
+        <parrafo>Doña Alba María Doblas Miranda.</parrafo>
+        <parrafo>Doña Rosalía Ángeles Espinosa López.</parrafo>
+        <parrafo>Don Francisco Jesús Fernández Ferrera.</parrafo>
+        <parrafo>Don Manuel Alberto Fernández Rodríguez.</parrafo>
+        <parrafo>Don Juan Ramón Ferreira Siles.</parrafo>
+        <parrafo>Doña Catalina Montserrat García Carrasco.</parrafo>
+        <parrafo>Doña Ana Vanesa García Jiménez.</parrafo>
+        <parrafo>Don Ignacio García Rodríguez.</parrafo>
+        <parrafo>Don Antonio Manuel Garrido Moraga.</parrafo>
+        <parrafo>Don José Jesús Gázquez Linares.</parrafo>
+        <parrafo>Don Carmelo Gómez Domínguez.</parrafo>
+        <parrafo>Don Víctor Manuel González García.</parrafo>
+        <parrafo>Don Manuel Andrés González Rivera.</parrafo>
+        <parrafo>Doña Carolina González Vigo.</parrafo>
+        <parrafo>Don Manuel Gracia Navarro.</parrafo>
+        <parrafo>Don José Antonio Griñán Martínez.</parrafo>
+        <parrafo>Doña Ángeles Isac García.</parrafo>
+        <parrafo>Don Manuel Jiménez Barrios.</parrafo>
+        <parrafo>Don Mario Jesús Jiménez Díaz.</parrafo>
+        <parrafo>Doña María Teresa Jiménez Vílchez.</parrafo>
+        <parrafo>Doña María Dolores López Gabarro.</parrafo>
+        <parrafo>Doña Remedios Martel Gómez.</parrafo>
+        <parrafo>Doña Rosalía Martín Escobar.</parrafo>
+        <parrafo>Doña Aránzazu Martín Moya.</parrafo>
+        <parrafo>Doña María Eva Martín Pérez.</parrafo>
+        <parrafo>Doña María Carmen Martínez Aguayo.</parrafo>
+        <parrafo>Don José Manuel Martínez Malia.</parrafo>
+        <parrafo>Doña Alicia Martínez Martín.</parrafo>
+        <parrafo>Doña María Nieves Masegosa Martos.</parrafo>
+        <parrafo>Don Francisco Menacho Villalba.</parrafo>
+        <parrafo>Don José Antonio Miranda Aranda.</parrafo>
+        <parrafo>Don Adolfo Manuel Molina Rascón.</parrafo>
+        <parrafo>Doña María Jesús Montero Cuadrado.</parrafo>
+        <parrafo>Doña María del Mar Moreno Ruiz.</parrafo>
+        <parrafo>Doña Antonia Jesús Moro Cárdeno.</parrafo>
+        <parrafo>Don Jacinto Muñoz Madrid.</parrafo>
+        <parrafo>Don José Muñoz Sánchez.</parrafo>
+        <parrafo>Doña Micaela Navarro Garzón.</parrafo>
+        <parrafo>Don José Antonio Nieto Ballesteros.</parrafo>
+        <parrafo>Doña Inmaculada Nieto Castro.</parrafo>
+        <parrafo>Doña Rafaela Obrero Ariza.</parrafo>
+        <parrafo>Doña María Esperanza Oña Sevilla.</parrafo>
+        <parrafo>Doña Amelia Palacios Pérez.</parrafo>
+        <parrafo>Doña María del Carmen Pedemonte Quintana.</parrafo>
+        <parrafo>Doña Verónica Pérez Fernández.</parrafo>
+        <parrafo>Doña María del Carmen Pérez Rodríguez.</parrafo>
+        <parrafo>Doña Soledad Pérez Rodríguez.</parrafo>
+        <parrafo>Don Luis Pizarro Medina.</parrafo>
+        <parrafo>Don Paulino Plata Cánovas.</parrafo>
+        <parrafo>Doña Patricia del Pozo Fernández.</parrafo>
+        <parrafo>Doña María Dolores Quintana Campos.</parrafo>
+        <parrafo>Don Jaime Raynaud Soto.</parrafo>
+        <parrafo>Don Manuel Recio Menéndez.</parrafo>
+        <parrafo>Doña Natividad Redondo Crespo.</parrafo>
+        <parrafo>Doña Ana María Rico Terrón.</parrafo>
+        <parrafo>Don Alfonso Rodríguez Gómez de Celis.</parrafo>
+        <parrafo>Don Carlos Rojas García.</parrafo>
+        <parrafo>Don Rafael Ruiz Canto.</parrafo>
+        <parrafo>Don Jesús María Ruiz García.</parrafo>
+        <parrafo>Doña Antonia Ruiz Oliva.</parrafo>
+        <parrafo>Doña María Teresa Ruiz-Sillero Bernal.</parrafo>
+        <parrafo>Doña María Concepción Sacramento Villegas.</parrafo>
+        <parrafo>Don Rafael Javier Salas Machuca.</parrafo>
+        <parrafo>Don Juan Manuel Sánchez Gordillo.</parrafo>
+        <parrafo>Don José Luis Sánchez Teruel.</parrafo>
+        <parrafo>Don Antonio Sanz Cabello.</parrafo>
+        <parrafo>Doña Adela Segura Martínez.</parrafo>
+        <parrafo>Don Juan Serrano Jódar.</parrafo>
+        <parrafo>Doña María Rosario Soto Rico.</parrafo>
+        <parrafo>Doña Rosario Torres Ruiz.</parrafo>
+        <parrafo>Don Diego Valderas Sosa.</parrafo>
+        <parrafo>Don Rafael Vicente Valero Rodríguez.</parrafo>
+        <parrafo>Don Francisco Vallejo Serrano.</parrafo>
+        <parrafo>Doña Josefa Vioque Zamora.</parrafo>
+        <parrafo>Don Juan Ignacio Zoido Álvarez.</parrafo>
+        <parrafo>Don Pedro Rodríguez González.</parrafo>
+        <parrafo>Doña Ana María Mestre García.</parrafo>
+        <parrafo>Doña Marina Segura Gómez.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor RODRÍGUEZ GONZÁLEZ, PRESIDENTE DE LA MESA DE EDAD</interviniente>
+      <discurso>
+        <parrafo>—Vamos a realizar el escrutinio.</parrafo>
+        <parrafo>[Se procede al recuento de votos.]</parrafo>
+        <parrafo>Señorías, el resultado de la votación es el siguiente: de un total de 108 votos emitidos, doña Patricia del Pozo Fernández ha obtenido 42 votos, don Manuel Andrés González ha obtenido 35 votos y doña Remedios Martel Gómez, 31 votos.</parrafo>
+        <parrafo>En consecuencia, quedan proclamados: Secretaria Primera del Parlamento de Andalucía, doña Patricia del Pozo; Secretario Segundo, don Manuel Andrés González, y Secretaria Tercera, doña Remedios Martel.</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+        <parrafo>Terminadas las elecciones de los miembros de la Mesa del Parlamento de Andalucía, y tal como establecen los artículos 33 y 34 del vigente Reglamento, la composición en esta IX Legislatura es la siguiente:</parrafo>
+        <parrafo>Presidente, don Manuel Gracia Navarro; Vicepresidente Primero, don Ignacio García Rodríguez; Vicepresidenta Segunda, doña Esperanza Oña Sevilla; Vicepresidenta Tercera, doña Teresa Jiménez Vílchez; Secretaria Primera, doña Patricia del Pozo Fernández; Secretario Segundo, don Manuel Andrés González Rivera, y Secretaria Tercera, doña Remedios Martel Gómez.</parrafo>
+        <parrafo>Enhorabuena a todos.</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+        <parrafo>Juramento o promesa de acatamiento de la Constitución Española y el Estatuto de Autonomía para Andalucía</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

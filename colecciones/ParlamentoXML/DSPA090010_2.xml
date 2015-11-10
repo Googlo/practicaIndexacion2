@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>10</numero_diario>
+  <tipo_sesion>Sesión extraordinaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro.</presidente>
+  <numero_sesion>número 6</numero_sesion>
+  <fecha>
+    <dia>25</dia>
+    <mes>julio</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Diputación Permanente</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputación Permanente</tipo_iniciativa>
+    <numero_expediente>9-12/OAPP-000006</numero_expediente>
+    <extracto>Elección como miembro titular de la Diputación Permanente del Ilmo. Sr. D. Francisco José Álvarez de la Chica en sustitución de la Ilma. Sra. Dña. Rosario Torres Ruiz y elección como miembros suplentes de la Diputación Permanente de las Ilmas. Sras. Dña. Soledad Pérez Rodríguez y Dña. Rosario Torres Ruiz en sustitución de las Ilmas. Sras. Dña. Araceli Carrillo Pérez y Dña. Clara Eugenia Aguilera García, respectivamente (pág. 5).</extracto>
+    <votacion>Votación: aprobadas por unanimidad..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Bien, señorías, en segundo lugar, punto segundo: elección de miembros de la Diputación Permanente.</parrafo>
+        <parrafo>El Grupo Socialista propone la sustitución, el nombramiento como miembro de la Diputación Permanente de don Francisco Álvarez de la Chica, en sustitución de la de la ilustrísima señora doña Rosario Torres Ruiz, y la elección, como miembros suplentes de la Diputación Permanente, de las ilustrísimas señoras doña Soledad Pérez Rodríguez y doña Rosario Torres Ruiz, en sustitución de doña Araceli Carrillo Pérez y doña Clara Eugenia Aguilera, respectivamente.</parrafo>
+        <parrafo>¿Se entienden aprobadas las sustituciones mencionadas por el Pleno de la Cámara? Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

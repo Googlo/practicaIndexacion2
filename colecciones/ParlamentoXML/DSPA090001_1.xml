@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>1</numero_diario>
+  <tipo_sesion>Sesión Constitutiva</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 1</numero_sesion>
+  <fecha>
+    <dia>19</dia>
+    <mes>abril</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Constitución</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Constitución</tipo_iniciativa>
+    <numero_expediente>Constitución</numero_expediente>
+    <extracto>Constitución de la Mesa de Edad (pág. 3).</extracto>
+    <intervienen>D. José Antonio Víboras Jiménez, Letrado Mayor del Parlamento de Andalucía. D. Pedro Rodríguez González, Presidente de la Mesa de Edad. Dña. Ana María Mestre García, Secretaria de la Mesa de Edad.</intervienen>
+    <intervencion>
+      <interviniente>El señor VÍBORAS JIMÉNEZ, LETRADO MAYOR DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Señorías, verificadas las declaraciones presentadas por cada uno de los señores diputados proclamados electos, resulta ser el diputado electo de mayor edad don Pedro Rodríguez González y las diputadas electas más jóvenes doña Ana María Mestre García y doña Marina Segura Gómez.</parrafo>
+        <parrafo>Ruego que comparezcan en esta Presidencia, a fin de constituir la Mesa de Edad.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor RODRÍGUEZ GONZÁLEZ, PRESIDENTE DE LA MESA DE EDAD</interviniente>
+      <discurso>
+        <parrafo>—Buenas tardes.</parrafo>
+        <parrafo>Se abre la sesión.</parrafo>
+        <parrafo>Ruego a la señora Secretaria, doña Ana Maestre, que dé lectura al decreto de convocatoria y a la relación de diputados electos, con indicación de los recursos contencioso-electorales pendientes de resolución.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora MESTRE GARCÍA, SECRETARIA DE LA MESA DE EDAD</interviniente>
+      <discurso>
+        <parrafo>—Buenos días.</parrafo>
+        <parrafo>Procedo a la lectura del Decreto del Presidente 1/2012, del 30 de enero, de disolución del Parlamento de Andalucía y de convocatoria de elecciones.</parrafo>
+        <parrafo>«Artículo 5.º. Sesión constitutiva del Parlamento. El Parlamento elegido celebrará su sesión constitutiva el día 19 de abril, a las 12 horas».</parrafo>
+        <parrafo>Relación de diputados electos. Vistas las actas de la proclamación de diputados electos al Parlamento de Andalucía, expedidas por las juntas electorales provinciales de Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga y Sevilla, y la relación de parlamentarios emitida por la Presidencia de la Junta Electoral de Andalucía, de conformidad con lo dispuesto en el artículo 39 de la Ley 1/1986, de 2 de enero, Electoral de Andalucía, los diputados electos al Parlamento de Andalucía son los siguientes:</parrafo>
+        <parrafo />
+        <parrafo>Por la circunscripción de Almería:</parrafo>
+        <parrafo>Don Francisco Javier Arenas Bocanegra.</parrafo>
+        <parrafo>Don José Cara González.</parrafo>
+        <parrafo>Don Miguel Ángel Castellón Rubio.</parrafo>
+        <parrafo>Doña Fuensanta Coves Botella.</parrafo>
+        <parrafo>Doña Rosalía Ángeles Espinosa López.</parrafo>
+        <parrafo>Don José Jesús Gázquez Linares.</parrafo>
+        <parrafo>Doña Rosalía Martín Escobar.</parrafo>
+        <parrafo>Doña Aránzazu Martín Moya.</parrafo>
+        <parrafo>Don Manuel Recio Menéndez.</parrafo>
+        <parrafo>Don José Luis Sánchez Teruel.</parrafo>
+        <parrafo>Doña Adela Segura Martínez.</parrafo>
+        <parrafo>Doña Rosario Soto Rico.</parrafo>
+        <parrafo />
+        <parrafo>Por la circunscripción de Cádiz:</parrafo>
+        <parrafo>Doña Raquel Arenal Catena.</parrafo>
+        <parrafo>Doña Rocío Arrabal Higuera.</parrafo>
+        <parrafo>Doña María Colón Lozano.</parrafo>
+        <parrafo>Don Ignacio García Rodríguez.</parrafo>
+        <parrafo>Don Manuel Jiménez Barrios.</parrafo>
+        <parrafo>Don José Manuel Martínez Malia.</parrafo>
+        <parrafo>Don Francisco Menacho Villalba.</parrafo>
+        <parrafo>Doña Ana María Mestre García.</parrafo>
+        <parrafo>Don Jacinto Muñoz Madrid.</parrafo>
+        <parrafo>Doña Inmaculada Nieto Castro.</parrafo>
+        <parrafo>Doña María del Carmen Pedemonte Quintana.</parrafo>
+        <parrafo>Don Luis Pizarro Medina.</parrafo>
+        <parrafo>Don Rafael Ruiz Canto.</parrafo>
+        <parrafo>Doña María Teresa Ruiz-Sillero.</parrafo>
+        <parrafo>Don Antonio Sanz Cabello.</parrafo>
+        <parrafo />
+        <parrafo>Por la circunscripción de Córdoba:</parrafo>
+        <parrafo>Doña María del Rosario Alarcón Mañas.</parrafo>
+        <parrafo>Don Manuel Baena Cobos.</parrafo>
+        <parrafo>Don Rafael Carmona Ruiz.</parrafo>
+        <parrafo>Doña María Araceli Carrillo Pérez.</parrafo>
+        <parrafo>Doña Alba María Doblas Miranda.</parrafo>
+        <parrafo>Don Manuel Gracia Navarro.</parrafo>
+        <parrafo>Don Adolfo Manuel Molina Rascón.</parrafo>
+        <parrafo>Don José Antonio Nieto Ballesteros.</parrafo>
+        <parrafo>Doña Rafaela Obrero Ariza.</parrafo>
+        <parrafo>Doña Soledad Pérez Rodríguez.</parrafo>
+        <parrafo>Don Jesús María Ruiz García.</parrafo>
+        <parrafo>Doña Josefa Vioque Zamora.</parrafo>
+        <parrafo />
+        <parrafo>Por la circunscripción de Granada:</parrafo>
+        <parrafo>Doña Clara Eugenia Aguilera García.</parrafo>
+        <parrafo>Don Francisco José Álvarez de la Chica.</parrafo>
+        <parrafo>Don Francisco Javier Aragón Ariza.</parrafo>
+        <parrafo>Doña María Francisca Carazo Villalonga.</parrafo>
+        <parrafo>Don Miguel Castellano Gámez.</parrafo>
+        <parrafo>Don Juan Ramón Ferreira Siles.</parrafo>
+        <parrafo>Doña Ana Vanesa García Jiménez.</parrafo>
+        <parrafo>Don Luis González Ruiz, que ha renunciado, siendo sustituido por don Rafael Vicente Valero Rodríguez.</parrafo>
+        <parrafo>Doña María Teresa Jiménez Vílchez.</parrafo>
+        <parrafo>Doña María Eva Martín Pérez.</parrafo>
+        <parrafo>Doña María Nieves Masegosa Martos.</parrafo>
+        <parrafo>María Carmen Pérez Rodríguez.</parrafo>
+        <parrafo>Carlos Rojas García.</parrafo>
+        <parrafo />
+        <parrafo>Por la circunscripción de Huelva:</parrafo>
+        <parrafo>Doña María Cinta Castillo Jiménez.</parrafo>
+        <parrafo>Don José Juan Díaz Trillo.</parrafo>
+        <parrafo>Don Francisco Jesús Fernández Ferrera.</parrafo>
+        <parrafo>Don Manuel Alberto Fernández Rodríguez.</parrafo>
+        <parrafo>Don Manuel Andrés González Rivera.</parrafo>
+        <parrafo>Don Mario Jesús Jiménez Díaz.</parrafo>
+        <parrafo>Doña María Dolores López Gabarro.</parrafo>
+        <parrafo>Doña Antonia Jesús Moro Cárdeno.</parrafo>
+        <parrafo>Don Pedro Rodríguez González.</parrafo>
+        <parrafo>Doña María Concepción Sacramento Villegas.</parrafo>
+        <parrafo>Don Diego Valderas Sosa.</parrafo>
+        <parrafo />
+        <parrafo>Por la provincia de Jaén:</parrafo>
+        <parrafo>Don Antonio Jesús Ávila Cano.</parrafo>
+        <parrafo>Don Miguel Contreras López.</parrafo>
+        <parrafo>Doña Catalina Montserrat García Carrasco.</parrafo>
+        <parrafo>Doña Ángeles Isac García.</parrafo>
+        <parrafo>Don José Antonio Miranda Aranda.</parrafo>
+        <parrafo>Doña María Mar Moreno Ruiz.</parrafo>
+        <parrafo>Doña Micaela Navarro Garzón.</parrafo>
+        <parrafo>Doña Amelia Palacios Pérez.</parrafo>
+        <parrafo>Doña Natividad Redondo Crespo.</parrafo>
+        <parrafo>Don Juan Serrano Jódar.</parrafo>
+        <parrafo>Don Francisco Vallejo Serrano.</parrafo>
+        <parrafo />
+        <parrafo>Por la circunscripción de Málaga:</parrafo>
+        <parrafo>Don Luciano Alonso Alonso.</parrafo>
+        <parrafo>Don Enrique Javier Benítez Palma.</parrafo>
+        <parrafo>Don José Bernal Gutiérrez.</parrafo>
+        <parrafo>Doña María Luisa Bustinduy Barrero.</parrafo>
+        <parrafo>Don Daniel Castilla Zumaquero.</parrafo>
+        <parrafo>Don José Antonio Castro Román.</parrafo>
+        <parrafo>Doña Ana María Corredera Quintana.</parrafo>
+        <parrafo>Don José Eduardo Díaz Molina.</parrafo>
+        <parrafo>Don Antonio Manuel Garrido Moraga.</parrafo>
+        <parrafo>Don Víctor Manuel González García.</parrafo>
+        <parrafo>Doña Remedios Martel Gómez.</parrafo>
+        <parrafo>Doña María Esperanza Oña Sevilla.</parrafo>
+        <parrafo>Don Paulino Plata Cánovas.</parrafo>
+        <parrafo>Doña María Dolores Quintana Campos.</parrafo>
+        <parrafo>Doña Ana María Rico Terrón.</parrafo>
+        <parrafo>Doña Antonia Ruiz Oliva.</parrafo>
+        <parrafo>Doña Rosario Torres Ruiz.</parrafo>
+        <parrafo />
+        <parrafo>Por la circunscripción de Sevilla:</parrafo>
+        <parrafo>Don Miguel Ángel Araúz Rivero.</parrafo>
+        <parrafo>Don José Caballos Mojeda.</parrafo>
+        <parrafo>Doña Susana Díaz Pacheco.</parrafo>
+        <parrafo>Don Carmelo Gómez Domínguez.</parrafo>
+        <parrafo>Doña Carolina González Vigo.</parrafo>
+        <parrafo>Don José Antonio Griñán Martínez.</parrafo>
+        <parrafo>Doña María Carmen Martínez Aguayo.</parrafo>
+        <parrafo>Doña Alicia Martínez Martín.</parrafo>
+        <parrafo>Doña María Jesús Montero Cuadrado.</parrafo>
+        <parrafo>Don José Muñoz Sánchez.</parrafo>
+        <parrafo>Doña Verónica Pérez Fernández.</parrafo>
+        <parrafo>Doña Patricia del Pozo Fernández.</parrafo>
+        <parrafo>Don Jaime Raynaud Soto.</parrafo>
+        <parrafo>Don Alfonso Rodríguez Gómez de Celis.</parrafo>
+        <parrafo>Don Rafael Javier Salas Machuca.</parrafo>
+        <parrafo>Don Juan Manuel Sánchez Gordillo.</parrafo>
+        <parrafo>Doña Marina Segura Gómez.</parrafo>
+        <parrafo>Don Juan Ignacio Zoido Álvarez.</parrafo>
+        <parrafo />
+        <parrafo>Igualmente, se hace constar, a efectos de lo dispuesto en el artículo 3.1 del Reglamento de la Cámara, que contra los acuerdos de las juntas electorales provinciales sobre proclamación de diputados electos no ha sido interpuesto recurso contencioso-electoral alguno.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor RODRÍGUEZ GONZÁLEZ, PRESIDENTE DE LA MESA DE EDAD</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias.</parrafo>
+        <parrafo>Excelentísimas e ilustrísimas autoridades, señoras y señores diputados electos, tengo el honor de dirigirme a esta Cámara el día de su constitución oficial y a unos días de cumplirse treinta años de las primeras elecciones al Parlamento andaluz celebradas en mayo de 1982. En primer lugar, quisiera solicitar a sus señorías, en las que el pueblo andaluz ha depositado su confianza y la responsabilidad política para afrontar en los próximos cuatro años los proyectos, los problemas y las necesidades de Andalucía y de los andaluces.</parrafo>
+        <parrafo>Asimismo, me gustaría resaltar la importancia de esta nueva legislatura, una legislatura que se inicia en medio de una profunda crisis económica e institucional y en la que los ciudadanos esperan que sus señorías y los partidos políticos que representan estén a la altura de las circunstancias. Estoy seguro, pues, de que los andaluces, que el 25 de marzo nos votaron en las urnas, van a exigirnos actitudes responsables, sensatas y altura de miras para mantener el equilibrio entre la defensa de los intereses de la comunidad andaluza y los intereses generales de España, y, en la medida en que seamos o no capaces de garantizar a un tiempo ambos intereses y objetivos, ayudaremos al avance y al progreso de Andalucía o, por el contrario, nos quedaremos atrás, como ya nos ocurrió en el pasado.</parrafo>
+        <parrafo>Señoras. Señorías. Todos sabemos que no corren buenos tiempos para la economía, ni tampoco para la política ni para los políticos. Les confieso que, cuando el domingo le expliqué a mi hija que estaba escribiendo el breve y protocolario discurso para la constitución del Parlamento, esta me contestó, de forma enojada y poco frecuente en ella, diciéndome: «Pero, hombre, si la gente se aburre con los discursos de los políticos». La contestación de mi hija me sorprendió, no tanto por lo que me dijo, sino por quién me lo decía. Le quise contrarrestar su opinión, y no solo no lo conseguí, sino que se vino arriba, y a su manera me dio una serie de razones por las que ella creía que la gente no tiene interés por la política, y el por qué, especialmente los jóvenes, se sienten tan alejados de ella.</parrafo>
+        <parrafo>La primera razón fue porque los políticos no ofrecemos las respuestas adecuadas a los grandes problemas, y especialmente al del paro, el principal drama de nuestra tierra; por el pésimo ejemplo de la corrupción; porque no nos importa tanto debatir el problema como ensañarnos con el adversario a cuenta del problema; porque demasiadas veces preferimos dañar al rival político por encima del bien común y del interés general; porque da la impresión de que en nuestras vidas manda el mercado global, sobre el que los ciudadanos no tienen capacidad de influir con su voto; porque los problemas están dramáticamente cerca de nosotros, en nuestras propias casas, pero las soluciones están demasiado lejos. Adviertan vuestras señorías que estas reflexiones las hacia la hija de un político que lleva 17 años dedicado al servicio público, defendiendo a Huelva y a Andalucía por encima de todo.</parrafo>
+        <parrafo>Señorías, si los ciudadanos no nos encuentran útiles, si no sienten que nuestro trabajo sirve para mejorar sus vidas y su prosperidad, nada tendrá sentido.</parrafo>
+        <parrafo>Quiero decirles con esto que nuestra credibilidad como representantes públicos se encuentra en horas bajas, y por ello tenemos que trabajar por recuperar la confianza de los ciudadanos, a la que nos debemos.</parrafo>
+        <parrafo>Tenemos que derribar el muro que, desgraciadamente, existe, y que nos sigue separando de la sociedad; tenemos que trabajar por hacerlos útiles y que la ciudadanía entienda y respete nuestro tiempo y nuestro trabajo, como paso primero y fundamental para conseguir un futuro mejor.</parrafo>
+        <parrafo>Señorías, basándome en mi experiencia como parlamentario y como alcalde de Huelva, les diré que esto se puede conseguir con cercanía, con diálogo sincero entre las fuerzas políticas. Y, sobre todo, con alturas de miras, desechando el sectarismo, desechando y abandonando el partidismo, derrotando progresivamente la guerra de guerrillas en la que a veces nos encontramos.</parrafo>
+        <parrafo>Estamos aquí, en esta cámara de representación política, 109 personas que tenemos que dar lo mejor de nosotros mismos al servicio de los demás, para que el Parlamento sea y se sienta como la voz de los millones de andaluces a los que nos debemos.</parrafo>
+        <parrafo>Señorías, no creo que estemos aquí para hacerle la guerra a nadie, ni por la vanidad de un titular de periódico o de dos minutos de telediario. Estamos aquí principalmente para hacerles la vida más fácil y más prospera a los ciudadanos, para conseguir que esta tierra alcance las cotas de progreso que tanto necesita y que tanto nos reclaman los ciudadanos.</parrafo>
+        <parrafo>Entre nosotros se encuentran 56 parlamentarios y parlamentarias que se estrenan en esta Cámara. Me dirijo especialmente a ellos para decirles que la savia nueva y la ilusión que traen en sus alforjas deben servirnos a los demás para que en los próximos años impere el diálogo y el consenso en beneficio del progreso de Andalucía, para que el Parlamento sea el órgano que controle y fiscalice al Gobierno, para que el Parlamento sea un lugar de encuentro y no de desencuentro, para que se respete lo que han decidido los ciudadanos en las urnas eligiéndonos a todos nosotros como sus representantes. Finalmente, para que pongamos siempre por encima de cualquier interés el interés de los andaluces y de las andaluzas, y de esa forma consigamos un nuevo tiempo de esperanza para esta gran tierra llamada Andalucía.</parrafo>
+        <parrafo>Muchas gracias.</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+        <parrafo>Elección de miembros de la Mesa del Parlamento</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

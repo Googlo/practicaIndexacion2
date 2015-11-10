@@ -7,18 +7,33 @@ package consultas;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.Reader;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.StringTokenizer;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import org.apache.tika.Tika;
+import org.apache.tika.exception.TikaException;
+import org.apache.tika.parser.AutoDetectParser;
+import org.apache.tika.parser.ParseContext;
+import org.apache.tika.sax.BodyContentHandler;
+import org.apache.tika.metadata.Metadata;
+import org.xml.sax.ContentHandler;
+import org.xml.sax.SAXException;
 
 /**
  *
  * @author moulay
  */
-    public class Tokenizer {
-    ArrayList<File> listaFicheros = new ArrayList();
+public class Tokenizer {
+    private ArrayList<File> listaFicheros = new ArrayList();
+    private Tika tika = new Tika();
     
     public void addFiles(File file) {
         if (!file.exists()){
@@ -42,41 +57,60 @@ import java.util.StringTokenizer;
     
     public String readFile(File f) throws FileNotFoundException {
         String texto = "";
-        BufferedReader br = new BufferedReader(new FileReader(f));
         try {
-            String line = br.readLine();
-
-            while (line != null) {
-                
-                texto = texto + line + System.lineSeparator();
-                line = br.readLine();
-            }
-            br.close();
+            //InputStream representa el stream de bytes del que lee el parser
+            // el flujo de documento
+            InputStream is = new FileInputStream(f);
+            // datos de documento
+            Metadata metadata = new Metadata();
+            //Manejador de contenido
+            //writeLimit - número máximo de caracteres para incluir en la cadena
+            ContentHandler ch = new BodyContentHandler(10*1024*1024);
+            //Contexto de análisis. Se utiliza para pasar información contextual para analizadores Tika
+            ParseContext parseContext = new ParseContext();
+            //Crea una instancia del analizador automático de detección utilizando la configuración por defecto Tika.
+            AutoDetectParser parser = new AutoDetectParser();
+            //Analiza una corriente documento en una secuencia de eventos XHTML SAX. Rellena los metadatos de documentos relacionados en el objeto de metadatos dado.
+            parser.parse(is,ch,metadata,parseContext);
+            
+           // con estas lineas de codigo no me lee todo
+           /* String type = tika.detect(f);
+            System.out.println (f + " : " + type) ;
+            
+            texto = tika.parseToString(f);*/
+            
+            // tenemos el texto
+            texto = ch.toString();
             
         } catch(IOException ex) {
+            ex.printStackTrace();
+        } catch (TikaException ex) {
+            ex.printStackTrace();
+        } catch (SAXException ex) {
             ex.printStackTrace();
         }
         return texto;
     }
     
     String remplazar(String texto) {
-        return texto.replaceAll("[\\.,¿?!¡;()'\"«»<>:]", "").toLowerCase();
+        return texto.replaceAll("[\\.,¿?!¡;()'\"«»<>:`´‘’-]", "").toLowerCase();
     }
     
-    StringTokenizer getTokens() {
-        String texto = "";
-        
+    List<Document> getTokens() {
+        List<Document> documents = new ArrayList();        
         
         for(File f: listaFicheros) {
-            
+            String texto = "";
             try {
-                texto = texto + readFile(f);
+                texto = readFile(f);
             } catch (FileNotFoundException ex) {
                 ex.printStackTrace();
+            } finally {
+                StringTokenizer tokens = new StringTokenizer(remplazar(texto));
+                documents.add(new Document(f.getName(), tokens));
             }
         }
         
-        StringTokenizer tokens = new StringTokenizer(remplazar(texto));
-        return tokens;
+        return documents;
     }
 }

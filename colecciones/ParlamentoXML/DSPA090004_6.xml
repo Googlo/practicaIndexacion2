@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>4</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro.</presidente>
+  <numero_sesion>número 3</numero_sesion>
+  <fecha>
+    <dia>23</dia>
+    <mes>mayo</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Proposiciones de ley ante el Congreso de los Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Proposiciones de ley ante el Congreso de los Diputados</tipo_iniciativa>
+    <numero_expediente>8-11/PPPL-000001</numero_expediente>
+    <extracto>Elección o ratificación, en su caso, de los diputados para la defensa de la Proposición de Ley Orgánica, a tramitar ante la Mesa del Congreso de los Diputados, sobre delegación de competencias sobre las aguas de la cuenca del Guadalquivir que transcurren íntegramente por territorio andaluz a la Comunidad Autónoma de Andalucía (pág. 10).</extracto>
+    <votacion>Votación de la ratificación de los diputados: aprobada por asentimiento..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Punto cuarto del orden del día: Elección o ratificación, en su caso, de los diputados para la defensa de la Proposición de Ley Orgánica, a tramitar ante la Mesa del Congreso de los Diputados, sobre delegación de competencias sobre las aguas de la cuenca del Guadalquivir que transcurren íntegramente por territorio andaluz.</parrafo>
+        <parrafo>Esta iniciativa, ante ella, la Comisión de Gobierno Interior y Peticiones acordó la ratificación, como miembros, de los diputados designados en su día para la defensa de la misma, según les consta en la documentación del Pleno.</parrafo>
+        <parrafo>¿Puede entender la Presidencia que queda adoptado el acuerdo por el Pleno de la Cámara? Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

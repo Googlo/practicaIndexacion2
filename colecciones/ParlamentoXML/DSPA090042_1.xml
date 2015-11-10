@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>42</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 23,</numero_sesion>
+  <fecha>
+    <dia>12</dia>
+    <mes>junio</mes>
+    <anio>2013</anio>
+  </fecha>
+  <tipo_epigrafe>Punto nuevo del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Punto nuevo del orden del día</tipo_iniciativa>
+    <extracto>Solicitud de conformidad de la Cámara para la inclusión de un nuevo punto en el orden del día (pág. 8).</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Bien, buenas tardes, señorías. Se abre la sesión.</parrafo>
+        <parrafo>En primer lugar, de acuerdo con lo que prevé el artículo 73 del Reglamento, paso a proponerles, como de costumbre, una modificación del orden del día consistente en la introducción de un nuevo punto: delegación de voto de don Luciano Alonso Alonso.</parrafo>
+        <parrafo>¿Puedo contar con su asentimiento?</parrafo>
+        <parrafo>Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

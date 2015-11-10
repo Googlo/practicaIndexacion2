@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>12</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro.</presidente>
+  <numero_sesion>número 7</numero_sesion>
+  <fecha>
+    <dia>13</dia>
+    <mes>septiembre</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Especie protegida, Fauna, Protección de los animales, Ave</materias>
+    <numero_expediente>9-12/POP-000092</numero_expediente>
+    <extracto>Pregunta oral relativa a la reintroducción del águila pescadora (pág. 59).</extracto>
+    <proponentes>los Ilmos. Sres. D. Miguel Castellano Gámez y Dña. Josefa Vioque Zamora, del G.P. Socialista.</proponentes>
+    <intervienen>Dña. Josefa Vioque Zamora, del G.P. Socialista. D. Luis Planas Puchades, Consejero de Agricultura, Pesca y Medio Ambiente.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señor Bernal.</parrafo>
+        <parrafo>Siguiente pregunta con ruego de respuesta oral en Pleno, relativa a reintroducción del águila pescadora, asimismo del Grupo Parlamentario Socialista y dirigida al Consejero de Agricultura, Pesca y Medio Ambiente.</parrafo>
+        <parrafo>Para formularla, tiene la palabra la diputada señora Vioque Zamora.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora VIOQUE ZAMORA</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señor Presidente.</parrafo>
+        <parrafo>Señor Consejero, el águila pescadora, una de las rapaces que habían desaparecido de nuestro territorio —concretamente se encontraba extinguida como reproductora en la España continental desde los años ochenta, mientras que en el resto está catalogada como en peligro—, ahora se reproduce con éxito en nuestra Comunidad. La situación de la especie en la cuenca mediterránea es crítica, puesto que presenta una población escasa y muy fragmentada.</parrafo>
+        <parrafo>Con el fin de aumentar las probabilidades de supervivencia de esta especie se inició el proyecto de reintroducción del águila pescadora en Andalucía.</parrafo>
+        <parrafo>Por tanto, señor Consejero, ¿puede ofrecernos los datos del programa de reintroducción del águila pescadora en Andalucía y cuáles están siendo sus resultados?</parrafo>
+        <parrafo>Muchas gracias.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señora Vioque.</parrafo>
+        <parrafo>Señor Consejero.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor PLANAS PUCHADES, CONSEJERO DE AGRICULTURA, PESCA Y MEDIO AMBIENTE</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señor Presidente. Señora diputada.</parrafo>
+        <parrafo>Le agradezco su pregunta, porque permite poner en valor una acción yo creo que muy importante, como otras que llevamos a cabo, para el desarrollo y la preservación de la biodiversidad.</parrafo>
+        <parrafo>Efectivamente, es en el año 2003 cuando la Junta de Andalucía pone en marcha un programa de reintroducción de una especie que se encontraba extinguida en nuestro territorio. Con un grupo de expertos internacionales se establecieron las pautas para lograr el asentamiento de una población reproductora estable de la especie de Andalucía. La dirección científica ha correspondido a la Estación Biológica de Doñana, del Consejo Superior de Investigaciones Científicas, y la dirección técnica y la coordinación a la Fundación Migres, y, además, hemos contado con la colaboración y el apoyo de la Fundación Banco de Santander.</parrafo>
+        <parrafo>A fecha de hoy se puede decir que el éxito en esta reintroducción con su posibilidad de supervivencia es superior al 99%. Son nueve los territorios en los cuales ha sido reintroducida el águila pescadora. La tasa de retorno se sitúa por encima del 16%. Concretamente hay dos puntos donde la introducción..., la reintroducción se produce, el Paraje Natural Marismas del Odiel, en Huelva, y el embalse del río Barbate, en el Parque Natural de los Alcornocales, en Cádiz, mediante un método denominado «Hacking» que, por la falta de tiempo, me permito no describir. Hay 164 ejemplares de esta especie: 86 en el sur de la provincia de Cádiz y 78 en el Paraje Natural de las Marismas del Odiel en Huelva.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Señora Vioque.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora VIOQUE ZAMORA</interviniente>
+      <discurso>
+        <parrafo>—Sí. Como hemos podido observar, una especie extinta en la Península Ibérica ha vuelto a criar entre nosotros. Es la primera vez que se consigue recuperar para nuestra fauna un vertebrado extinguido. Sin duda, es un mensaje de esperanza que nos demuestra que, si queremos, podemos mejorar nuestro entorno natural y conseguir un ambiente más diverso y saludable para las futuras generaciones.</parrafo>
+        <parrafo>Solo me queda agradecer desde mi grupo parlamentario al Gobierno andaluz el trabajo que está realizando. Este proyecto demuestra, sin duda, su empeño no solo de preservar la amplia biodiversidad andaluza, sino, además, de recuperar especies perdidas recientemente.</parrafo>
+        <parrafo>Muchas gracias.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

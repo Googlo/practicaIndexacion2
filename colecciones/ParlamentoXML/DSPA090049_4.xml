@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>49</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 27</numero_sesion>
+  <fecha>
+    <dia>12</dia>
+    <mes>septiembre</mes>
+    <anio>2013</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones, Grupos de trabajo, Ponencias de estudio y Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones, Grupos de trabajo, Ponencias de estudio y Diputados</tipo_iniciativa>
+    <numero_expediente>9-13/OAPP-000004</numero_expediente>
+    <extracto>Propuesta de acuerdo de modificación de las comisiones permanentes legislativas (pág. 7).</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>Don Manuel Gracia Navarro, Presidente del Parlamento de Andalucía</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—El punto segundo: órganos de la Cámara, propuesta de acuerdo de modificación de las comisiones permanentes legislativas. El texto de la propuesta aprobado por la Mesa y la Junta de Portavoces en el día de antes de ayer está incluido en la documentación que todas sus señorías tienen. Entendiéndolo sobradamente conocido, propongo, por lo tanto, también su aprobación por asentimiento.</parrafo>
+        <parrafo>¿Puedo entender que se aprueba?</parrafo>
+        <parrafo>Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

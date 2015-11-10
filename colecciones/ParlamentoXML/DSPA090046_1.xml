@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>46</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 25</numero_sesion>
+  <fecha>
+    <dia>17</dia>
+    <mes>julio</mes>
+    <anio>2013</anio>
+  </fecha>
+  <tipo_epigrafe>Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputados</tipo_iniciativa>
+    <numero_expediente>9-13/DEC-000002</numero_expediente>
+    <extracto>Dictamen de la Comisión del Estatuto de los Diputados sobre la compatibilidad de la Sra. Dña. María Salomé Arroyo Sánchez (pág. 8).</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>Dña. Patricia del Pozo Fernández, Secretaria Primera del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Bien, vamos a comenzar la sesión. Buenos días, señorías.</parrafo>
+        <parrafo>Se abre la sesión, punto primero del orden del día, dictamen de la Comisión del Estatuto de los Diputados sobre la compatibilidad de la ilustrísima señora doña María Salomé Arroyo Sánchez.</parrafo>
+        <parrafo>Ruego a la secretaria primera dé lectura del dictamen de la comisión.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora DEL POZO FERNÁNDEZ, SECRETARIA PRIMERA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Bien. Buenos días, señorías.</parrafo>
+        <parrafo>«Reunida la comisión el día 17 de julio de 2013, ha examinado la declaración presentada por la ilustrísima señora diputada doña María Salomé Arroyo Sánchez, en la forma exclusivamente liminar, que le resulta posible en ese momento, por lo que no se excluye la posibilidad de llegar a una solución contraria…», perdón, señoría, «por lo que no se excluye la posibilidad de llegar a una solución contraria cuando así proceda, se posean los datos suficientes para ello, o llegue la debida información a esta comisión.</parrafo>
+        <parrafo>»Con dicha prevención la comisión, como digo, ha adoptado por unanimidad el siguiente acuerdo:</parrafo>
+        <parrafo>»Primero, considerar que, según la normativa vigente, de la documentación presentada y del conocimiento que en este momento poseen los miembros de la comisión, no se deduce incompatibilidad alguna en la declaración examinada.</parrafo>
+        <parrafo>»Segundo, en consecuencia procede proponer al Pleno la declaración de compatibilidad de la ilustrísima señora diputada doña María Salomé Arroyo Sánchez.</parrafo>
+        <parrafo>»Sevilla, 17 de julio de 2013, firmado Juan Ignacio Zoido Álvarez, presidente de la Comisión del Estatuto de los Diputados.»</parrafo>
+        <parrafo>Muchas gracias.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señora secretaria.</parrafo>
+        <parrafo>¿Puede entender la presidencia que el dictamen se aprueba por asentimiento de la Cámara?</parrafo>
+        <parrafo>Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>38</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 21,</numero_sesion>
+  <fecha>
+    <dia>8</dia>
+    <mes>mayo</mes>
+    <anio>2013</anio>
+  </fecha>
+  <tipo_epigrafe>Puntos nuevos del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Puntos nuevos del orden del día</tipo_iniciativa>
+    <extracto>Solicitud de conformidad de la Cámara para la inclusión de tres nuevos puntos en el orden del día (pág. 9).</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Buenas tardes, señorías.</parrafo>
+        <parrafo>Vamos a dar comienzo a la sesión plenaria.</parrafo>
+        <parrafo>En primer lugar, de acuerdo con lo que prevé el artículo 73 del Reglamento, paso a proponerles una modificación del orden del día, consistente en la introducción de tres nuevos puntos: la delegación de voto de don Luciano Alonso Alonso, la delegación de voto de doña Rafaela Obrero Ariza y la delegación de voto de don Rafael Salas Machuca.</parrafo>
+        <parrafo>¿Puedo contar con el asentimiento de la Cámara?</parrafo>
+        <parrafo>Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

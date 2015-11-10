@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>21</numero_diario>
+  <tipo_sesion />
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>plenaria número 12</numero_sesion>
+  <fecha>
+    <dia>28</dia>
+    <mes>noviembre</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Puntos nuevos del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Puntos nuevos del orden del día</tipo_iniciativa>
+    <numero_expediente>9-12/DVOT-000013</numero_expediente>
+    <extracto>Delegación de voto de Dña. Raquel Arenal Catena a favor de Dña. Verónica Pérez Fernández (pág. 7).</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Y en segundo lugar, señorías, la Mesa ha conocido en el día de hoy escrito presentado por la diputada señora Arenal Catena, por el que se solicita delegar su voto, para los días 28 y 29 de noviembre, en la señora Pérez Fernández, por razón de enfermedad. La Comisión del Estatuto también ha emitido el correspondiente dictamen, estableciendo que concurren las circunstancias precisas para acceder a dicha delegación y, por lo tanto, ¿puedo entender que el Pleno aprueba la delegación del voto mencionada? Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

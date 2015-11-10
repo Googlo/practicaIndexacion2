@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>21</numero_diario>
+  <tipo_sesion />
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>plenaria número 12</numero_sesion>
+  <fecha>
+    <dia>28</dia>
+    <mes>noviembre</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Puntos nuevos del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Puntos nuevos del orden del día</tipo_iniciativa>
+    <extracto>Solicitud de conformidad de la Cámara para la inclusión de dos nuevos puntos en el orden del día (pág. 7).</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Bien, señorías, buenas tardes. Les ruego tomen asiento.</parrafo>
+        <parrafo>Bien, señorías, en primer lugar, y conforme a lo que prevé el artículo 73 del Reglamento de la Cámara, les propongo una modificación del orden del día, como viene siendo, desgraciadamente, costumbre —desgraciadamente por el motivo que la origina—, para introducir en el mismo dos nuevos puntos: el mantenimiento de las delegaciones de voto de doña Araceli Carrillo Pérez y de doña Raquel Arenal.</parrafo>
+        <parrafo>¿Puedo contar con su asentimiento? Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

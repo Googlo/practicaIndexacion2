@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>8</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 5</numero_sesion>
+  <fecha>
+    <dia>27</dia>
+    <mes>junio</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Diputación Permanente</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputación Permanente</tipo_iniciativa>
+    <numero_expediente>9-12/OAPP-000004</numero_expediente>
+    <extracto>Elección de miembros titulares y suplentes de la Diputación Permanente (pág. 7).</extracto>
+    <votacion>Votación: aprobada por asentimiento..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Bien. Buenas tardes, señorías. Vamos a dar comienzo a la sesión plenaria.</parrafo>
+        <parrafo>En primer lugar, como punto primero del orden del día, elección de miembros titulares y suplentes de la Diputación Permanente.</parrafo>
+        <parrafo>En la carpeta de Pleno que sus señorías tienen, o han accedido a ella, figuran las propuestas de los distintos grupos parlamentarios.</parrafo>
+        <parrafo>¿Puede entender la Presidencia que existe acuerdo del Pleno para la designación como miembros de la Diputación Permanente a los propuestos por los distintos grupos parlamentarios?</parrafo>
+        <parrafo>Bien. Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

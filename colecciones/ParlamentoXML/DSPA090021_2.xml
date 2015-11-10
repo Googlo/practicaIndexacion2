@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>21</numero_diario>
+  <tipo_sesion />
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>plenaria número 12</numero_sesion>
+  <fecha>
+    <dia>28</dia>
+    <mes>noviembre</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Puntos nuevos del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Puntos nuevos del orden del día</tipo_iniciativa>
+    <numero_expediente>9-12/DVOT-000012</numero_expediente>
+    <extracto>Delegación de voto de Dña. Araceli Carrillo Pérez a favor de D. José Muñoz Sánchez (pág. 7).</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Y en primer lugar veríamos la delegación de voto de doña Araceli Carrillo Pérez, que, conforme al Estatuto que ha emitido en su día la Comisión del Estatuto de los Diputados, el informe que ha emitido la Comisión del Estatuto de los Diputados, la Cámara debe acordar la delegación de voto que se solicita en tanto se prolongue la enfermedad que la motiva. Al no haberse producido la modificación de la situación de enfermedad de la diputada, ¿puedo entender que el Pleno ratifica la delegación del voto de doña Araceli Carrillo Pérez en la persona del señor Muñoz Sánchez? Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>49</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 27</numero_sesion>
+  <fecha>
+    <dia>12</dia>
+    <mes>septiembre</mes>
+    <anio>2013</anio>
+  </fecha>
+  <tipo_epigrafe>Puntos nuevos del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Puntos nuevos del orden del día</tipo_iniciativa>
+    <numero_expediente>9-13/DVOT-000013</numero_expediente>
+    <extracto>Delegación de voto de Dña. Rosario Carazo Villalonga a favor de D. Rafael Salas Machuca (pág. 5).</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>Don Manuel Gracia Navarro, Presidente del Parlamento de Andalucía</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Por lo tanto, en primer lugar, vemos ese punto del orden del día, en el que hay que decir que mediante escrito dirigido a la Mesa el día de ayer, la diputada doña María Francisca Carazo Villalonga solicita, por razón de maternidad, al amparo de lo dispuesto en el artículo 85.5-6 del Reglamento, delegar su voto en el día de hoy a favor de don Rafael Salas Machuca.</parrafo>
+        <parrafo>¿Puede entender la Presidencia que el Pleno aprueba la citada delegación?</parrafo>
+        <parrafo>Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

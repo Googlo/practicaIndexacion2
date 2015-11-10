@@ -1,0 +1,122 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+
+
+<!-- Mirrored from cervantes.uah.es/queryhit.htm by HTTrack Website Copier/3.x [XR&CO'2010], Fri, 22 Nov 2013 09:18:35 GMT -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=Windows-1252">
+<meta name="DESCRIPTION" content="Sample query form for Microsoft Index Server">
+<meta name="AUTHOR" content="Index Server Team">
+<meta name="KEYWORDS" content="query, content, hit">
+<meta name="SUBJECT" content="sample form">
+<meta name="MS.CATEGORY" content="Internet">
+<meta name="MS.LOCALE" content="EN-US">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>Formulario de búsqueda para textos del web de Cervante</title>
+<!--         Specify various properties of this HTML page, so that they can be queried. The         properties are:            Description:    abstract of this page            Author:         author            Keywords:       keywords            Subject:        subject            Ms.category:    category            Ms.locale:      locale or language of this HTML page (US English)            Content-type:   charset identifier of this HTML page (1252)         If a description meta tag is present in an HTML page, then it is used as the abstract or summary         of the HTML page. If a description tag is not present then the Index Server will automatically         generate an abstract using the text in the title tag, heading tags and so on. To query for a meta         tag property, the property must be specified in the idq file. The GUID for the meta property         is D1B5D3F0-C0B3-11CF-9A92-00A0C908DBF1 and the property name is specified by the name field. In         the case of the description property the name is "description. Hence to query for the description         property, add the following to the Names section of the idq file              [Names]              MetaDescription(DBTYPE_WSTR) = D1B5D3F0-C0B3-11CF-9A92-00A0C908DBF1 description         Then the query              @MetaDescription Microsoft Index Server         will return this page in the result set. The GUID for meta property is a registry parameter         located at  HKEY_LOCAL_MACHINE                 \System\CurrentControlSet                  \Control\HtmlFilter                   \MetaTagClsid         Author, Keywords and Subject properties in a meta tag are treated differently. These properties         have the friendly names DocAuthor, DocKeywords and DocSubject respectively, and they         correspond to the Author, Keywords and Subject properties of the Microsoft Summary Information         property set. Hence, the query             @DocAuthor Index Server Team         will return this page in the result set.         The MS.CATEGORY property is also treated differently. The MS.CATEGORY property is mapped to         the category property in the Microsoft Document Summary Information property set. The GUID         for the Document Summary Information property set is d5cdd502-2e9c-101b-9397-08002b2cf9ae,         and the property id for category in that property set is 2. So, to query for the MS.CATEGORY         property, add the following to the Names section of the idq file              [Names]              DocCategory(DBTYPE_WSTR) = d5cdd502-2e9c-101b-9397-08002b2cf9ae 2         Then the query              @DocCategory Internet         will return this page in the result set.         The MS.LOCALE property specifies the locale or language of this page. The locale property         allows the Index Server to use the appropriate locale specific resources when processing the         HTML page. It is very useful to specify the locale property when the HTML pages being indexed are in         different locales. If all the HTML pages being indexed are in the same locale and it's         the same as the locale of the server computer on which Index Server is running, then the         MS.LOCALE property can be omitted without any loss of fidelity. The MS.LOCALE property can also be         queried just like any other generic meta tag property. To query for the MS.LOCALE property, add the         following to the Names section of the idq file              [Names]              Locale(DBTYPE_WSTR) = D1B5D3F0-C0B3-11CF-9A92-00A0C908DBF1 ms.locale         Then the query              @Locale US         will return this page in the result set.         The charset meta tag specifies the character set of the HTML page. This information         is used by the Index Server when converting the text in the HTML page to Unicode. The following         charset IDs are recognized:                 Base_Charset (Display Name): Charset IDs                 ----------------------------------------                 1252 (Western) : us-ascii, iso8859-1, ascii, iso_8859-1, iso-8859-1, ANSI_X3.4-1968, iso-ir-6,                       ANSI_X3.4-1986, ISO_646.irv:1991, ISO646-US, us, IBM367, cp367, csASCII, latin1,                       iso_8859-1:1987, iso-ir-100, ibm819, cp819, Windows-1252                         28592 (Central European (ISO)): iso8859-2, iso-8859-2, iso_8859-2, latin2, iso_8859-2:1987,                       iso-ir-101, l2, csISOLatin2                         1250 (Central European (Windows)): windows-1250, x-cp1250                         1251 (Cyrillic (Windows)): windows-1251, x-cp1251                         1253 (Greek (Windows)): windows-1253                         1254 (Turkish (Windows)):windows-1254                         932 (Shift-JIS) :  shift_jis, x-sjis, ms_Kanji, csShiftJIS                         EUC-JP (EUC) : Extended_UNIX_Code_Packed_Format_for_Japanese, csEUCPkdFmtJapanese, x-euc-jp                         JIS (JIS) : csISO2022JP, iso-2022-jp                         1257 : windows-1257                         950 (Traditional Chinese (BIG5)) : big5, csbig5, x-x-big5                         936 (Simplified Chinese): GB_2312-80, iso-ir-58, chinese, csISO58GB231280, csGB2312, gb2312                         20866 (Cyrillic (KOI8-R)): csKOI8R, koi8-r                         949 (Korean): ks_c_5601, ks_c_5601-1987, korean, csKSC56011987                         1255 (Hebrew): ISO_8859-8:1988, iso-ir-138, ISO_8859-8, ISO-8859-8, hebrew, csISOLatinHebrew                         1256 (Arabic): Windows-1256                         874 (Thai): Windows-874                         1258 (Vietnamese): Windows-1258-->
+
+</head>
+
+<body stylesrc="privado/style.htm" topmargin="0" background="images/Punteado%20gris.gif" bgproperties="fixed" bgcolor="#FFFFFF" text="#000000" link="#800000" vlink="#800080">
+
+<table border="0">
+    <tr>
+        <td><img src="images/64x_book.jpg" align="middle" width="95" height="73"><h5><a href="inicio.htm">Página
+        de inicio</a></h5>
+        </td>
+        <td align="middle"><font color="#000000" size="7" face="Garamond"><em><strong>M</strong></em></font><font color="#000000" size="6" face="Garamond"><em><strong>iguel
+        de Cervantes Saavedra </strong></em></font><h2 align="center"><font color="#000000" size="5" face="Garamond"><em><strong>Buscar en este web</strong></em></font></h2>
+        </td>
+    </tr>
+</table>
+
+<hr size="3" width="75%">
+
+<form action="http://cervantes.uah.es/scripts/samples/search/queryhit.idq" method="GET PROOT_/ = d:\otrosweb\cervantes INDEX_/ = d:\otrosweb\cervantes">
+    <input type="hidden" name="CiMaxRecordsPerPage" value="10"><input type="hidden" name="CiScope" value="/"><input type="hidden" name="TemplateName" value="queryhit"><input type="hidden" name="CiSort" value="rank[d]"><input type="hidden" name="HTMLQueryForm" value="queryhit.htm"><p><font color="#000000" size="3" face="Garamond">Introduzca su
+    consulta: </font></p>
+    <table border="0">
+        <tr>
+            <td><font color="#000000" size="3" face="Garamond"><input type="text" size="40" maxlength="100" name="CiRestriction"></font></td>
+            <td><font color="#000000" size="3" face="Garamond"><input type="submit" value="Ejecutar consulta"></font></td>
+            <td><font color="#000000" size="3" face="Garamond"><input type="reset" value="Restablecer"></font></td>
+        </tr>
+        <tr>
+            <td align="right"><a href="tipshelp.htm"><font color="#000000" size="3" face="Garamond">Consejos
+            para la consulta</font></a></td>
+        </tr>
+    </table>
+</form>
+
+<hr size="3" width="80%">
+
+<table border="0">
+    <tr>
+        <td><font color="#000000" size="6" face="Garamond">U</font><font color="#000000" size="3" face="Garamond">tilice este
+        formulario para buscar documentos de este Web que
+        contengan palabras o combinaciones de palabras
+        específicas. El sistema de búsqueda de texto mostrará
+        una amplia lista de documentos que las contengan, con las
+        mayores coincidencias en primer lugar. <br>
+        Cada elemento de la lista es un vínculo al documento que
+        contiene el texto buscado, si este documento tiene
+        título lo mostrará, en caso contrario aparecerá el
+        nombre del archivo. Además, podrá ver las coincidencias
+        señaladas de dos formas: en modo resumen, y a texto
+        completo. <br>
+        También dispone de una breve </font><a href="#querylang"><font color="#000000" size="3" face="Garamond">explicación</font></a><font color="#000000" size="3" face="Garamond"> del lenguaje de
+        consulta con ejemplos</font><p><a href="#top"><font color="#000000" size="2" face="Garamond"><strong>Volver
+        al principio</strong></font></a><font color="#000000" size="6" face="Garamond">.</font></p>
+        <hr>
+        <h2><a name="querylang"><font color="#000000" size="5" face="Garamond">Lenguaje de Consulta</font></a></h2>
+        <p><font color="#000000" size="6" face="Garamond">E</font><font color="#000000" size="3" face="Garamond">l sistema de
+        búsqueda de texto permite hacer consultas en formato de
+        expresiones booleanas arbitrarias con las palabras clave
+        AND, OR y NOT, y agrupadas entre paréntesis. Por
+        ejemplo:</font></p>
+        <blockquote>
+            <p><font color="#000000" size="3" face="Garamond"><strong>información
+            recuperación </strong><br>
+            busca documentos que contengan 'información' o
+            'recuperación'<br>
+            <br>
+            <strong>información or recuperación </strong><br>
+            lo mismo que arriba<br>
+            <br>
+            <strong>información and recuperación </strong><br>
+            busca documentos que contengan ambos 'información' y
+            'recuperación'<br>
+            <br>
+            <strong>información not recuperación </strong><br>
+            busca documentos que contengan 'información' pero no
+            'recuperación'<br>
+            <br>
+            <strong>(información not recuperación) and WAIS </strong><br>
+            busca documentos que contengan 'WAIS', más
+            'información' pero no 'recuperación' <br>
+            <br>
+            <strong>web* </strong><br>
+            busca documentos que contengan palabras que comiencen
+            con 'web'<br>
+            </font></p>
+        </blockquote>
+        <h5><a href="#top"><font color="#000000" size="2" face="Garamond">Ir al principio</font></a></h5>
+        </td>
+    </tr>
+    <font color="#000000" size="5" face="Garamond"><!-- Otras páginas de búsqueda:</TD>    </TR>    <TR>        <TD></TD>        <TD><A HREF="/samples/search/filesize.htm">Para consultas por tamaño de archivos</A></TD>    </TR>    <TR>        <TD></TD>        <TD><A HREF="/samples/search/filetime.htm">Para consultas por fecha de modificación</A></TD>    </TR>    <TR>        <TD></TD>        <TD><A HREF="/samples/search/author.htm">Para consultas por autor</A></TD>    </TR>--></font>
+</table>
+
+<hr size="3" width="80%">
+
+<h5><font color="#000000" size="2" face="Garamond"><em>Obra
+cedida por el Centro de Estudios Cervantinos<br>
+Copyright Universidad de Alcala. <br>
+Para problemas o cuestiones relacionadas con este web contactar
+con </em></font><a href="mailto:dpasun@uah.alcala.es"><font color="#000000" size="2" face="Garamond"><em>dpasun@uah.alcala.es</em></font></a><font color="#000000" size="2" face="Garamond"><em><br>
+Última actualización: <!--webbot bot="TimeStamp" s-type="EDITED" s-format="%d/%m/%y" startspan -->16/12/97<!--webbot bot="TimeStamp" endspan i-checksum="13729" -->.</em></font></h5>
+</body>
+
+<!-- Mirrored from cervantes.uah.es/queryhit.htm by HTTrack Website Copier/3.x [XR&CO'2010], Fri, 22 Nov 2013 09:18:36 GMT -->
+</html>

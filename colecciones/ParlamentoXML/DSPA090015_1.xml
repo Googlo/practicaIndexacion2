@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>15</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro.</presidente>
+  <numero_sesion>número 9</numero_sesion>
+  <fecha>
+    <dia>10</dia>
+    <mes>octubre</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputados</tipo_iniciativa>
+    <numero_expediente>9-12/DVOT-000005 9-12/DVOT-000006 9-12/DVOT-000007</numero_expediente>
+    <extracto>Delegaciones de voto de Dña. Raquel Arenal Catena a favor de Dña. Verónica Pérez Fernández, y de Dña. Rafaela Obrero Ariza y Dña. María del Rosario Soto Rico a favor de D. Rafael Salas Machuca (pág. 6)</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>9-12/DVOT-000005</numero_expediente>
+      </componente>
+      <componente>
+        <numero_expediente>9-12/DVOT-000006</numero_expediente>
+      </componente>
+      <componente>
+        <numero_expediente>9-12/DVOT-000007</numero_expediente>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación: aprobadas por asentimiento..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Buenas tarde, señorías. Vamos a dar comienzo a la sesión plenaria. En primer lugar, de acuerdo con lo que prevé el artículo 73 del Reglamento, paso a proponerles una modificación del orden del día, consistente en la inclusión de tres nuevos puntos: Delegación de voto de doña Raquel Arenal Catena, delegación de voto de doña Rafaela Obrero Ariza y delegación de voto de doña María Rosario Soto Rico.</parrafo>
+        <parrafo>¿Puedo contar con el asentimiento de la Cámara para la inclusión en el orden del día de este punto?</parrafo>
+        <parrafo>Bien, así se declara.</parrafo>
+        <parrafo>Aunque la previsión reglamentaria sería que fuéramos caso a caso ejerciendo la aprobación del voto sobre la delegación de doña Raquel Arenal Catena, doña Rafaela Obrero y doña María Rosario Soto, les propongo que, constatado por la Mesa que el escrito formulado por las señoras Arenal Catena, Obrero Ariza y Soto Rico, de la solicitud de delegación de su voto, durante los días de hoy y de mañana, respectivamente en la señora Pérez Fernández y señor Salas Machuca las dos últimas, pues, les propongo si puede entender la Presidencia que, emitido dictamen favorable por la Comisión del Estatuto de esta misma mañana, podemos considerar que se aprueba la delegación de voto en los términos mencionados, es decir, delegación de voto de doña Raquel Arena en doña Verónica Pérez Fernández, de doña Rafaela Obrero Ariza en el señor Salas Machuca, y de doña María Rosario Soto Rico también en el señor Salas Machuca.</parrafo>
+        <parrafo>¿Se entiende así?</parrafo>
+        <parrafo>Pues así se declara en los tres casos.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

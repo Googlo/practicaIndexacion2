@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>23</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 13,</numero_sesion>
+  <fecha>
+    <dia>12</dia>
+    <mes>diciembre</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Puntos nuevos del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Puntos nuevos del orden del día</tipo_iniciativa>
+    <numero_expediente>9-12/DVOT-000016</numero_expediente>
+    <extracto>Delegación de voto de D. Jesús María Ruiz García  a favor de Dña. Soledad Pérez Rodríguez (pág. 7).</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Y, por último, en relación a estos tres nuevos puntos, la delegación de voto de don Jesús María Ruiz García. La Mesa también ha conocido en la mañana de hoy el escrito presentado por el diputado solicitando delegar su voto para la sesión de hoy y mañana en la señora Pérez Rodríguez en razón de enfermedad. La Comisión también ha emitido el correspondiente dictamen, estableciendo que concurren las circunstancias precisas para acceder a dicha delegación, por lo que ¿puedo entender, señorías que se aprueba por el Pleno la delegación de voto? Así se declara, por lo tanto.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

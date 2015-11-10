@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>24</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro.</presidente>
+  <numero_sesion>número 13</numero_sesion>
+  <fecha>
+    <dia>13</dia>
+    <mes>diciembre</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Agua, Curso de agua, Gestión del agua, Ordenación hidroagrícola, Planificación regional, Recurso hidráulico, Relación estado-región</materias>
+    <numero_expediente>9-12/POP-000337</numero_expediente>
+    <extracto>Pregunta oral relativa a reunión del Consejo Nacional del Agua (pág. 21).</extracto>
+    <proponentes>los Ilmos. Sres. D. Miguel Castellano Gámez y Dña. Josefa Vioque Zamora, del G.P. Socialista.</proponentes>
+    <intervienen>Dña. Josefa Vioque Zamora, del G.P. Socialista. D. Luis Planas Puchades, Consejero de Agricultura, Pesca y Medio Ambiente.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señor Consejero.</parrafo>
+        <parrafo>Continuamos con la siguiente pregunta, relativa a reunión del Consejo Nacional del Agua, dirigida, asimismo, al Consejero de Agricultura, Pesca y Medio Ambiente.</parrafo>
+        <parrafo>Por el Grupo Parlamentario Socialista, para formularla tiene la palabra su diputada, la señora Vioque Zamora.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora VIOQUE ZAMORA</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señor Presidente.</parrafo>
+        <parrafo>Las cuestiones fundamentales de un plan de cuenca son, por un lado, planificar la demanda de agua, tanto para uso económico, fundamentalmente regadío, que son alrededor de unas ochocientas cincuenta mil hectáreas de regadío y que consumen unos tres mil quinientos hectómetros cúbicos al año, representando así el 87% de toda la demanda, como para el abastecimiento y consumo humano, en el que 4,1 millones de personas de la demarcación absorben 436 hectómetros cúbicos, representando así el 11% de la demanda. Para esto es fundamental la política de infraestructuras, la que se ha hecho y la que por hacer. Es importante plantear la eficiencia en el abastecimiento para consumos domésticos y la modernización de los sistemas para el regadío, al igual que la reducción de aportes contaminantes a este.</parrafo>
+        <parrafo>Señor Consejero, hoy se va a celebrar una reunión del Consejo Nacional del Agua a la que usted asiste en representación del Gobierno andaluz y como titular de las competencias en agricultura y medio ambiente. En el último Consejo Nacional del Agua, celebrado el pasado 27 de junio, se informaron los planes hidrológicos de las tres demarcaciones intracomunitarias en las que Andalucía tiene plenas competencias, que son las de las cuencas mediterránea, la del Guadalete-Barbate y la del Tinto-Odiel y Piedras. Tenemos entendido que en esta ocasión se va a abordar el plan hidrológico de la demarcación del Guadalquivir.</parrafo>
+        <parrafo>Por lo tanto, ¿nos puede informar, señor Consejero, sobre esta cuestión y sobre el papel que está teniendo el Gobierno de Andalucía en la elaboración de este instrumento?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señora Vioque.</parrafo>
+        <parrafo>Señor Consejero.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor PLANAS PUCHADES, CONSEJERO DE AGRICULTURA, PESCA Y MEDIO AMBIENTE</interviniente>
+      <discurso>
+        <parrafo>—Sí. Muchas gracias, señor Presidente.</parrafo>
+        <parrafo>Señora diputada, efectivamente, esta tarde tiene lugar en Madrid la reunión del Consejo Nacional del Agua donde se abordará, entre otras cuestiones, la propuesta de plan hidrológico de la demarcación hidrográfica del Guadalquivir y de la demarcación hidrográfica del Guadiana.</parrafo>
+        <parrafo>El Gobierno de Andalucía ha participado activamente en su proceso de redacción, en un marco de colaboración con el Estado, tratando de que el plan se ajustara a las necesidades de Andalucía, partiendo de un amplio consenso establecido en el Acuerdo Andaluz por el Agua del año 2009. Estos contactos continuos han tenido como propósito lograr un óptimo equilibrio entre los usos actuales y el aumento futuro de las demandas; cuestión esencial habida cuenta del importante déficit estructural del agua existente en el Guadalquivir.</parrafo>
+        <parrafo>Desgraciadamente, y a pesar de la voluntad de diálogo, reiterada por este Gobierno y por este Consejero, para conseguir un acuerdo equilibrado en el sentido anteriormente indicado, este no ha sido posible, por lo cual la Comunidad Autónoma de Andalucía votará esta tarde no al plan propuesto para la demarcación hidrográfica del Guadalquivir.</parrafo>
+        <parrafo>Quiero indicar que, a pesar de que la propuesta que va a ser sometida a valoración del Consejo incluye medidas de ahorro, ellas son claramente insuficientes, siendo necesario que se haga hincapié en la optimización del recurso a través de medidas de impulso que conduzcan a un uso más eficaz, y especialmente en relación con los usos que consumen más agua en nuestra Comunidad Autónoma.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

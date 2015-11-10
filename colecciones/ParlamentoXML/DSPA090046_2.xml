@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>46</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 25</numero_sesion>
+  <fecha>
+    <dia>17</dia>
+    <mes>julio</mes>
+    <anio>2013</anio>
+  </fecha>
+  <tipo_epigrafe>Relación con órganos e instituciones públicas</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Relación con órganos e instituciones públicas</tipo_iniciativa>
+    <numero_expediente>9-13/CAU-000001 9-13/CSU-000001 9-13/CSU-000002 9-13/CSU-000003 9-13/CSU-000004 9-13/CSU-000005 9-13/CSU-000006 9-13/CSU-000007 9-13/CSU-000008 9-13/CSU-000009 8-11/CAT-000001</numero_expediente>
+    <extracto>Designación de miembros para diversos órganos cuyas composiciones son parcialmente de extracción parlamentaria (pág. 9).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>9-13/CAU-000001</numero_expediente>
+        <extracto>Designación de D. Jesús Mario Bilbao Arrese, D. Antonio Maíllo Cañadas, Dña. María del Carmen Mingorance Gosálvez, Dña. Esther Ruiz Córdoba y D. José Sánchez Maldonado como miembros del Consejo Andaluz de Universidades.</extracto>
+        <proponentes>Sin proponentes</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>9-13/CSU-000001</numero_expediente>
+        <extracto>Designación de D. Manuel Alías Cantón, Dña. Isabel de Haro Ramos, Dña. María del Carmen Pérez Fuentes y D. Juan José Ramírez Andrés como vocales del Consejo Social de la Universidad de Almería.</extracto>
+        <proponentes>Sin proponentes</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>9-13/CSU-000002</numero_expediente>
+        <extracto>Designación de D. Guillermo Boto Arnau, Dña. Inmaculada Delgado Nole, Dña. Aránzazu García García y D. Francisco Matías González Pérez como vocales del Consejo Social de la Universidad de Cádiz.</extracto>
+        <proponentes>Sin proponentes</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>9-13/CSU-000003</numero_expediente>
+        <extracto>Designación de Dña. Paula Badanelli Berriozabal, D. Ángel Blanco Moreno, D. Juan Jesús Carandell Mitsuf y Dña. María Soledad de Cristino Espinar como vocales del Consejo Social de la Universidad de Córdoba.</extracto>
+        <proponentes>Sin proponentes</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>9-13/CSU-000004</numero_expediente>
+        <extracto>Designación de D. Luis González Ruiz, Dña. Mercedes Mol de Miguel, D. Antonio Romero Romero y Dña. Carmen Solera Albero como vocales del Consejo Social de la Universidad de Granada.</extracto>
+        <proponentes>Sin proponentes</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>9-13/CSU-000005</numero_expediente>
+        <extracto>Designación de Dña. Susana Duque Mora, D. Pedro Jiménez San José, D. Francisco Riquel Ligero y Dña. María Villadeamigo Segovia como vocales del Consejo Social de la Universidad de Huelva.</extracto>
+        <proponentes>Sin proponentes</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>9-13/CSU-000006</numero_expediente>
+        <extracto>Designación de Dña. Rosario Morales de Coca, D. Ángel Navarro Sánchez-Ortiz, D. Juan Eugenio Ortega Rodríguez y Dña. Pilar Parra Ruiz como vocales del Consejo Social de la Universidad de Jaén.</extracto>
+        <proponentes>Sin proponentes</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>9-13/CSU-000007</numero_expediente>
+        <extracto>Designación de Dña. Margarita García García, D. Javier Gutiérrez del Álamo Cabello, D. Antonio Morales Lázaro y Dña. Dolores Rodríguez Martínez como vocales del Consejo Social de la Universidad de Málaga.</extracto>
+        <proponentes>Sin proponentes</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>9-13/CSU-000008</numero_expediente>
+        <extracto>Designación de Dña. María de los Ángeles Gutiérrez Báez, Dña. Mª. Francisca Aparicio Cervantes, D. Gabriel Dronda Fernández y D. Juan Espadas Cejas como vocales del Consejo Social de la Universidad de Sevilla.</extracto>
+        <proponentes>Sin proponentes</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>9-13/CSU-000009</numero_expediente>
+        <extracto>Designación de D. Sergio Cebolla de Ávila, Dña. Soledad Cruz-Guzmán García, Dña. Felicidad Fernández Fernández y D. Antonio Ortiz Ortiz como vocales del Consejo Social de la Universidad Pablo de Olavide.</extracto>
+        <proponentes>Sin proponentes</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>8-11/CAT-000001</numero_expediente>
+        <extracto>Designación de Dña. Mª Teresa Jiménez Vilches, Dña. Pilar Moreno del Camino, D. Jaime Raynaud Soto y D. Antonio Romero Ruiz como miembros titulares, y D. José Caballos Mojeda, Dña. María del Carmen Pérez Rodríguez, Dña. Patricia del Pozo Fernández y D. Rafael Salas Machuca como miembros suplentes del Consejo de Asuntos Taurinos de Andalucía.</extracto>
+        <proponentes>Sin proponentes</proponentes>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación: aprobadas por unanimidad..</votacion>
+    <intervienen>Dña. Patricia del Pozo Fernández, Secretaria Primera del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Punto segundo del orden del día, designación de miembros en órganos de extracción parlamentaria.</parrafo>
+        <parrafo>Ruego a la señora secretaria primera dé lectura a las distintas propuestas de designaciones de los órganos de extracción parlamentaria que aparecen recogidas en sus carpetas de plenos.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora DEL POZO FERNÁNDEZ, SECRETARIA PRIMERA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Designación de las siguientes personas para los órganos que se relacionan y cuyas composiciones son parcialmente de extracción parlamentaria.</parrafo>
+        <parrafo>Don Mario Bilbao Arrese, don Antonio Maíllo Cañadas, doña María del Carmen Mingorance Gosálvez, doña Esther Ruiz Córdoba y don José Sánchez Maldonado, como miembros del Consejo Andaluz de Universidades.</parrafo>
+        <parrafo>Don Manuel Alías Cantón, doña Isabel de Haro Ramos, doña María del Carmen Pérez Fuentes y don Juan José Ramírez Andrés como vocales del Consejo Social de la Universidad de Almería.</parrafo>
+        <parrafo>Don Guillermo Boto Arnau, doña Inmaculada Delgado Nole, doña Aránzazu García García y don Francisco Matías González Pérez, como vocales del Consejo Social de la Universidad de Cádiz.</parrafo>
+        <parrafo>Doña Paula Badanelli Berriozal, don Ángel Blanco Moreno, don Juan Jesús Carandell Mitsuf y doña María Soledad de Cristino Espinar, como vocales del Consejo Social de la Universidad de Córdoba.</parrafo>
+        <parrafo>Don Luis González Ruiz, doña Mercedes Mol de Miguel, don Antonio Romero Romero y doña Carmen Solera Albero, como vocales del Consejo Social de la Universidad de Granada.</parrafo>
+        <parrafo>Doña Susana Duque Mora, don Pedro Jiménez San José, don Francisco Riquel Ligero y doña María Villadeamigo Segovia, como vocales del Consejo Social de la Universidad de Huelva.</parrafo>
+        <parrafo>Doña Rosario Morales de Coca, don Ángel Navarro Sánchez-Ortiz, don Juan Eugenio Ortega Rodríguez y doña Pilar Parra Ruiz, como vocales del Consejo Social de la Universidad de Jaén.</parrafo>
+        <parrafo>Doña Margarita García García, don Javier Gutiérrez del Álamo Cabello, don Antonio Morales Lázaro y doña Dolores Rodríguez Martínez, como vocales del Consejo Social de la Universidad de Málaga.</parrafo>
+        <parrafo>Doña María de los Ángeles Gutiérrez Báez, doña María Francisca Aparicio Cervantes, don Gabriel Dronda Fernández y don Juan Espadas Cejas, como vocales del Consejo Social de la Universidad de Sevilla.</parrafo>
+        <parrafo>Don Sergio Cebolla de Ávila, doña Soledad Cruz-Guzmán García, doña Felicidad Fernández Fernández y don Antonio Ortiz Ortiz, como vocales del Consejo Social de la Universidad Pablo de Olavide.</parrafo>
+        <parrafo>Doña María Teresa Jiménez Vilches, doña Pilar Moreno del Camino, don Jaime Raynaud Soto y don Antonio Romero Ruiz, como miembros titulares, y don José Caballos Mojeda, doña María del Carmen Pérez Rodríguez, doña Patricia del Pozo Fernández y don Rafael Salas Machuca, como miembros suplentes del Consejo de Asuntos Taurinos de Andalucía.</parrafo>
+        <parrafo>Muchísimas gracias.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señora secretaria.</parrafo>
+        <parrafo>¿Puede entender esta presidencia acordadas, por asentimiento de la Cámara, las citadas designaciones?</parrafo>
+        <parrafo>Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

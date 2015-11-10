@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>23</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 13,</numero_sesion>
+  <fecha>
+    <dia>12</dia>
+    <mes>diciembre</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Puntos nuevos del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Puntos nuevos del orden del día</tipo_iniciativa>
+    <numero_expediente>9-12/DVOT-000015</numero_expediente>
+    <extracto>Delegación de voto de Dña. Araceli Carrillo Pérez a favor de D. José Muñoz Sánchez (pág. 7).</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—La Comisión del Estatuto del Diputado ha emitido en el día de hoy el dictamen favorable para que el Pleno acuerde la delegación de voto en relación a la señora Carrillo Pérez, delegación que se propone en la persona del señor Muñoz Sánchez. Contando con el informe de la Comisión del Estatuto de los Diputados, ¿puedo considerar que se acepta la delegación de voto? Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

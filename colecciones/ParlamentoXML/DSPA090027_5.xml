@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>27</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 15,</numero_sesion>
+  <fecha>
+    <dia>13</dia>
+    <mes>febrero</mes>
+    <anio>2013</anio>
+  </fecha>
+  <tipo_epigrafe>Diputación Permanente</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputación Permanente</tipo_iniciativa>
+    <numero_expediente>9-13/OAPP-000001</numero_expediente>
+    <extracto>Informe de la Diputación Permanente sobre los asuntos conocidos y tratados entre los días 1 y 31 de enero de 2013 (pág. 16).</extracto>
+    <intervienen>Dña. Patricia del Pozo Fernández, Secretaria Primera del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Pasamos, señorías, a continuación al punto segundo del orden del día: informe de la Diputación Permanente sobre los asuntos conocidos y tratados entre los días 1 y 31 de enero de 2013. La Secretaria Primera dará lectura al informe de la Diputación Permanente.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora DEL POZO FERNÁNDEZ, SECRETARIA PRIMERA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Presidente, buenos días..., buenas tardes, señorías.</parrafo>
+        <parrafo>«La Diputación Permanente del Parlamento de Andalucía, de conformidad con lo dispuesto en el artículo 59 del Reglamento de la Cámara, da cuenta al Pleno del Parlamento de Andalucía que durante el periodo comprendido entre los días 1 y 31 de enero de 2013 no ha conocido ni tratado asunto alguno.</parrafo>
+        <parrafo>»Sevilla, a 1 de febrero de 2013. El Presidente de la Diputación Permanente, don Manuel Gracia Navarro.»</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor GARCÍA RODRÍGUEZ, VICEPRESIDENTE PRIMERO DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señora Secretaria.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

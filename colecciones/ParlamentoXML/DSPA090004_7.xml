@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>4</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro.</presidente>
+  <numero_sesion>número 3</numero_sesion>
+  <fecha>
+    <dia>23</dia>
+    <mes>mayo</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputados</tipo_iniciativa>
+    <numero_expediente>9-12/DINT-000001</numero_expediente>
+    <extracto>Designación de Diputados Interventores para el ejercicio presupuestario 2012 (pág. 10).</extracto>
+    <votacion>Votación: aprobada por asentimiento..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Punto quinto: Diputados Interventores.</parrafo>
+        <parrafo>Igualmente, la Comisión de Gobierno Interior y Peticiones acordó elevar al Pleno la propuesta de designación de Diputados Interventores que les consta.</parrafo>
+        <parrafo>¿Puede entender la Presidencia, asimismo, el acuerdo del Pleno al respecto? Pues bien, así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

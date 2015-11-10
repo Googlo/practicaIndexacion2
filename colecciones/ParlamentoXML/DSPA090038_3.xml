@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>38</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 21,</numero_sesion>
+  <fecha>
+    <dia>8</dia>
+    <mes>mayo</mes>
+    <anio>2013</anio>
+  </fecha>
+  <tipo_epigrafe>Puntos nuevos del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Puntos nuevos del orden del día</tipo_iniciativa>
+    <numero_expediente>9-13/DVOT-000008</numero_expediente>
+    <extracto>Delegación de voto de Dña. Rafaela Obrero Ariza a favor de D. Carlos Rojas García (pág. 11).</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—En segundo lugar, delegación de voto de doña Rafaela Obrero Ariza.</parrafo>
+        <parrafo>En cuanto a esta delegación de voto, hay que decir, señorías, que la Mesa, también en la sesión celebrada esta misma mañana, ha conocido el escrito presentado por la diputada, por el que se solicita delegar su voto los días 8 y 9 de mayo en el señor Rojas García en razón de maternidad.</parrafo>
+        <parrafo>¿Puede entender la Presidencia que el pleno aprueba la delegación del voto?</parrafo>
+        <parrafo>Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

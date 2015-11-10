@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>29</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 16</numero_sesion>
+  <fecha>
+    <dia>26</dia>
+    <mes>febrero</mes>
+    <anio>2013</anio>
+  </fecha>
+  <tipo_epigrafe>Punto nuevo del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Punto nuevo del orden del día</tipo_iniciativa>
+    <numero_expediente>9-13/DVOT-000004</numero_expediente>
+    <extracto>Delegación de voto de Dña. Rosario Soto Rico a favor de D. Rafael Salas Machuca (pág. 11).</extracto>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—A continuación, señorías, pasamos a la delegación de voto de doña Rosario Soto Rico.</parrafo>
+        <parrafo>La Mesa, en sesión celebrada también esta mañana, ha conocido el escrito presentado por la diputada por el que solicita delegar su voto, los días 26 y 27 de febrero de este año, en el señor Salas Machuca, en razón de maternidad.</parrafo>
+        <parrafo>¿Puede entender entonces la Presidencia que el Pleno apruebe la delegación del voto?</parrafo>
+        <parrafo>Así se declara.</parrafo>
+        <parrafo>Imagino que también podemos declarar, señorías, en nombre de todos los diputados y diputadas la felicitación a la señora Soto Rico por su maternidad.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

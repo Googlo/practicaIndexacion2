@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>29</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro</presidente>
+  <numero_sesion>número 16</numero_sesion>
+  <fecha>
+    <dia>26</dia>
+    <mes>febrero</mes>
+    <anio>2013</anio>
+  </fecha>
+  <tipo_epigrafe>Punto nuevo del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Punto nuevo del orden del día</tipo_iniciativa>
+    <extracto>Solicitud de modificación del orden del día (pág. 9)</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Bien, señorías, buenas tardes.</parrafo>
+        <parrafo>Tomen asiento.</parrafo>
+        <parrafo>En primer lugar, señorías, de acuerdo con lo que prevé el artículo 73 del Reglamento de la Cámara, paso a proponerles una modificación del orden del día consistente en la introducción de dos nuevos puntos: uno, la delegación de voto de doña Raquel Arenal, y otro, de doña Rosario Soto Rico.</parrafo>
+        <parrafo>¿Puedo contar con su asentimiento?</parrafo>
+        <parrafo>Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

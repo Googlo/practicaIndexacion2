@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>4</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro.</presidente>
+  <numero_sesion>número 3</numero_sesion>
+  <fecha>
+    <dia>23</dia>
+    <mes>mayo</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones, grupos de trabajo y ponencias de estudio</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones, grupos de trabajo y ponencias de estudio</tipo_iniciativa>
+    <numero_expediente>9-12/OAPP-000002</numero_expediente>
+    <extracto>Acuerdo de modificación de las comisiones permanentes legislativas (pág. 10).</extracto>
+    <votacion>Votación: aprobada por asentimiento..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Punto sexto: Acuerdo de modificación de las comisiones permanentes legislativas.</parrafo>
+        <parrafo>En los términos del artículo 46.4 del Reglamento de la Cámara, de acuerdo con la propuesta de la Mesa y con el parecer favorable de la Junta de Portavoces, se somete a la aprobación de este Pleno la nueva relación de comisiones permanentes legislativas que les consta en la documentación.</parrafo>
+        <parrafo>¿Puede entender la Presidencia, igualmente, el parecer favorable de la Cámara? Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

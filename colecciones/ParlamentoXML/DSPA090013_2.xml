@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>13</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro.</presidente>
+  <numero_sesion>número 8,</numero_sesion>
+  <fecha>
+    <dia>26</dia>
+    <mes>septiembre</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Ayuntamientos</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Ayuntamientos</tipo_iniciativa>
+    <numero_expediente>9-12/MUGP-000001</numero_expediente>
+    <extracto>Debate y aprobación de la propuesta de acuerdo de la Comisión de Administración Local y Relaciones Institucionales sobre la solicitud del Ayuntamiento de Mijas, Málaga, de inclusión en el régimen de organización de los municipios de gran población (pág. 13).</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>Dña. María Dolores Quintana Campos, del G.P. Izquierda Unida Los Verdes-Convocatoria por Andalucía. D. Paulino Plata Cánovas, del G.P. Socialista. D. Víctor Manuel González García, del G.P. Popular Andaluz.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Pasamos, por lo tanto, en primer lugar, a la delegación de voto de doña Raquel Arenal Catena.</parrafo>
+        <parrafo>La Mesa de la Cámara, en sesión celebrada esta misma mañana, ha conocido el escrito presentado por la diputada, por el que se solicita delegar su voto los días 26 y 27 de septiembre de 2012 en la señora Verónica Pérez Fernández, en razón de enfermedad. También, obviamente, la Comisión del Estatuto ha emitido el correspondiente dictamen, que establece que concurren las circunstancias precisas para acceder a dicha delegación.</parrafo>
+        <parrafo>¿Puede entender, entonces, la Presidencia que el Pleno aprueba la delegación del voto?</parrafo>
+        <parrafo>Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

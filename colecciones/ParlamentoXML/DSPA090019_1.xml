@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>19</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro.</presidente>
+  <numero_sesion>número 11</numero_sesion>
+  <fecha>
+    <dia>15</dia>
+    <mes>noviembre</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Puntos nuevos del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Puntos nuevos del orden del día</tipo_iniciativa>
+    <extracto>Solicitud de conformidad de la Cámara para la inclusión de un nuevo punto en el orden del día (pág. 9)</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Bien, señorías, buenos días. Ruego vayan tomando asiento. Vamos a dar comienzo a la sesión plenaria del día de hoy.</parrafo>
+        <parrafo>Señorías, se abre la sesión. En primer lugar, de acuerdo con lo que en tal sentido prevé el artículo 73 del Reglamento, paso a proponerles una modificación del orden del día con el fin de introducir dos nuevos puntos: el mantenimiento de las delegaciones de voto de doña Araceli Carrillo Pérez y la delegación de voto de doña Raquel Arenal. ¿Puedo contar con su asentimiento? Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

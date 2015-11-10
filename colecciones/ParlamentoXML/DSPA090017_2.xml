@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>IX</legislatura>
+  <numero_diario>17</numero_diario>
+  <tipo_sesion>Sesión plenaria</tipo_sesion>
+  <organo>Pleno</organo>
+  <presidente>Excmo. Sr. D. Manuel Gracia Navarro.</presidente>
+  <numero_sesion>número 10</numero_sesion>
+  <fecha>
+    <dia>24</dia>
+    <mes>octubre</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Puntos nuevos del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Puntos nuevos del orden del día</tipo_iniciativa>
+    <numero_expediente>9-12/DVOT-000008</numero_expediente>
+    <extracto>Delegación de voto de Dña. Araceli Carrillo Pérez a favor de D. José Muñoz Sánchez (pág. 6).</extracto>
+    <votacion>Votación: aprobada por unanimidad..</votacion>
+    <intervienen>D. Manuel Gracia Navarro, Presidente del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Y, por lo tanto, pasamos, en primer lugar, a acordar la delegación de voto de doña Araceli Carrillo Pérez.</parrafo>
+        <parrafo>La Mesa, en sesión celebrada esta misma mañana, ha conocido el escrito formulado por la señora Carrillo Pérez y, atendiendo a los antecedentes que concurren en el caso, ha acordado proponer a la Comisión del Estatuto de los Diputados que en el dictamen correspondiente se pronunciara a favor de que el Pleno de la Cámara acordase que la delegación de voto que se solicita tuviera carácter general, en tanto se prolongase la enfermedad que la motiva, sin perjuicio de revocaciones en días concretos, bastando para ello con una mera comunicación formal a la Presidencia.</parrafo>
+        <parrafo>La Comisión del Estatuto de los Diputados ha emitido dictamen favorable.</parrafo>
+        <parrafo>¿Puedo entender, por lo tanto, señorías, que el Pleno aprueba la delegación del voto de doña Araceli Carrillo Pérez en la persona del señor Muñoz Sánchez?</parrafo>
+        <parrafo>Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

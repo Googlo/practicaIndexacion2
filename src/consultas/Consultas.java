@@ -5,6 +5,13 @@
  */
 package consultas;
 
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.OutputStream;
+import java.io.PrintStream;
+import static java.lang.Math.log;
+import java.util.List;
 import java.util.Map.Entry;
 import java.util.StringTokenizer;
 
@@ -19,37 +26,19 @@ public class Consultas {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) throws FileNotFoundException, IOException {
         
         Tokenizer tokenizer = new Tokenizer("/home/moulay/Escritorio/Consultas/colecciones/quijote");
         
-        StringTokenizer tokens = tokenizer.getTokens();
+        List<Document> documentos = tokenizer.getTokens();
         
         /* while (tokens.hasMoreTokens())
          System.out.println(tokens.nextToken());*/
         
-        Index indice = new Index(tokens);
-        
-       
-        
-        
-        for(String token: indice.getTokenList()) {
-            System.out.println("El token: '" + token + "' aparece " + indice.getFrequency(token) + " veces");
-        }
-        
-       
+       Index indice = new Index(documentos);
       
-        
-        
-        //SnowballStemmer stemmer;
-        //stemmer = (SnowballStemmer) new spanishStemmer();
-        //while(tokens.hasMoreTokens()) {
-        //    System.out.println(tokens.nextToken());
-            //stemmer.setCurrent(tokens.nextToken());
-            //if(stemmer.stem()) {
-            //    System.out.println(stemmer.getCurrent());
-            //}
-        //}
     }
+
+  
     
 }
